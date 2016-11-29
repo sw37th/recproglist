@@ -1,0 +1,106 @@
+## evening time
+23     sousei            Wed  18:25
+103    cc_sakura         Wed  18:30
+103    keion             Thu  18:30
+
+## Sun
+24     ex-aid            Sun  08:00
+24     mahotsukai_precure Sun  08:30
+22     tekketsu_2nd      Sun  17:00
+25     dash              Sun  18:59  00:59:30
+211    gundam            Sun  19:00
+27     sanadamaru        Sun  20:00  1:00:00
+20     dodesho           Sun  21:00
+20     show_by_rock_2nd  Sun  22:00
+20     majikyun          Sun  22:30
+18     botoms            Sun  23:00
+20     days              Sun  23:30
+20     toukenranbu       Sun  24:00
+211    jojo_4            Sun  24:00
+20     idle_memories     Sun  24:30
+211    toukenranbu       Sun  24:30
+211    days              Sun  25:00
+181    flipflapers       Sun  25:00
+211    bubuki_buranki_2nd Sun  25:30
+181    regalia           Sun  25:30
+23     psinan            Sun  25:35
+18     dojou             Sun  26:30 00:05:00
+ 
+## Mon
+20     shingeki          Mon  23:00
+20     mahoushoujoikusei Mon  24:00
+211    mahoushoujoikusei Mon  24:00
+211    bravewitches      Mon  24:30
+20     trickstar         Mon  25:05
+23     takkyumusume      Mon  25:35
+ 
+## Tue
+20     nobunaganoshinobi Tue  21:55 00:05:00
+20     matoi             Tue  23:00
+20     magic_of_stella   Tue  24:30
+211    trickstar         Tue  25:30
+23     natsume_5th       Tue  25:35
+211    soulbuster        Tue  26:00 00:15:00
+141    kinnirokemari     Tue  26:30
+211    show_by_rock_2nd  Tue  27:00
+ 
+## Wed
+20     cranegale_2nd     Wed  22:00 00:20:00
+20     nazotokine        Wed  22:20 00:10:00
+20     earth_star_time   Wed  22:30
+20     nanbaka           Wed  23:30
+20     euphonium_2nd     Wed  24:00
+211    magic_of_stella   Wed  24:00
+211    matoi             Wed  24:30
+20     straydogs_2nd     Wed  25:05
+20     bravewitches      Wed  25:35
+ 
+## Thu
+20     flipflapers       Thu  22:00
+20     regalia           Thu  22:30
+20     keijo             Thu  23:30
+20     allout            Thu  24:00
+211    euphonium_2nd     Thu  24:00
+211    keijo             Thu  24:30
+21     funewoamu         Thu  24:55
+15     dojou             Thu  25:00 00:05:00
+211    izetta            Thu  25:30
+22     watamote          Thu  25:58
+22     girlish_number    Thu  26:28
+211    nanbaka           Thu  27:00
+ 
+## Fri
+#25     sen_to_chihiro    Fri  21:00  02:35:00
+20     drifters          Fri  23:00
+211    drifes            Fri  23:30
+103    evangelion        Fri  23:45
+20     jojo_4            Fri  24:30
+211    lostorage         Fri  24:30
+20     lostorage         Fri  25:05
+22     haikyu_3rd        Fri  25:55
+22     ajin_2nd          Fri  26:25
+211    straydogs_2nd     Fri  27:00
+21     bonobono          Fri  28:52 00:10:00
+
+## Sat
+23     the_fishing       Sat  17:30
+27     buratamori        Sat  19:30 00:46:00
+20     bubuki_buranki_2nd Sat  22:00
+20     longriders         Sat  22:30
+27     lion              Sat  23:00
+20     www.working       Sat  23:30
+211    www.working       Sat  23:30
+20     occultic_nine     Sat  24:00
+211    occultic_nine     Sat  24:00
+171    takkyumusume      Sat  24:00
+161    haikyu_3rd        Sat  24:00
+20     vivid_strike      Sat  24:30
+211    vivid_strike      Sat  24:30
+161    ajin_2nd          Sat  24:30
+161    watamote          Sat  25:00
+20     izetta            Sat  25:30
+15     okusama           Sat  25:30 00:10:00
+161    girlish_number    Sat  25:30
+25     kinnirokemari     Sat  25:55
+24     tigermask_w       Sat  26:45
+211    longriders         Sat  27:30
