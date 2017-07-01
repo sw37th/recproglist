@@ -1,19 +1,15 @@
 ## evening time
-23     sousei            Wed  18:25
-103    cc_sakura         Wed  18:30
-103    keion             Thu  18:30
+103    cc_sakura         Sun  07:30
 
 ## Sun
 24     ex-aid            Sun  08:00
 24     precure_alamode   Sun  08:30
-22     tekketsu_2nd      Sun  17:00
 25     dash              Sun  18:59  00:59:30
 211    zgundam           Sun  19:00
 20     dodesho           Sun  21:00
 20     uchoutenkazoku_2nd Sun  22:00
-#20     nyanko_days       Sun  22:27  0:03:00
 20     alice_to_zouroku  Sun  22:30
-#20     zestiria_2nd      Sun  23:00
+20     id-0              Sun  23:00
 18     botoms            Sun  23:00
 #20     idle_jihen        Sun  23:30
 20     littlewitchacademia Sun  24:00
@@ -21,59 +17,65 @@
 211    littlewitchacademia Sun  24:30
 20     tsugumomo         Sun  24:30
 211    shingeki_2nd      Sun  25:00
-23     gintama           Sun  25:35
+211    tsukigakirei      Sun  25:30
  
 ## Mon
 20     akindo            Mon  21:55 00:05:00
 20     warauserusuman    Mon  23:00
-211    youjosenki        Mon  24:30
+20     zerokarahajimeru  Mon  24:30
+211    zerokarahajimeru  Mon  24:30
 20     framearmsgirl     Mon  25:05
 23     yowamushi_3rd     Mon  25:35
 211    bandori           Mon  26:00
-23     onihei            Mon  26:05
  
 ## Tue
-20     nobunaganoshinobi Tue  21:55 00:05:00
-20     acca13            Tue  23:00
-211    chainchronicle    Tue  24:00
-20     handshakers       Tue  24:30
-18     minamikamakura    Tue  25:00
-211    trickstar         Tue  25:30
-23     kemonofriends     Tue  25:35
+20     delemas_gekijou   Tue  21:55 00:05:00
+20     hukumenkei        Tue  23:00
+211    framearmsgirl     Tue  23:30
+211    alice_to_zouroku  Tue  24:00
+181    kado              Tue  24:00
+20     rokudenashi       Tue  24:30
+211    id-0              Tue  24:30
+23     natsume_6th       Tue  25:35
+23     heine             Tue  26:05
  
 ## Wed
-20     piace             Wed  22:30 00:05:00
-20     a_fit             Wed  22:35 00:05:00
-20     one_room          Wed  22:40 00:05:00
-20     akibas_trip       Wed  23:30
-20     maidragon         Wed  24:00
-211    acca13            Wed  24:30
-20     konosuba_2nd      Wed  25:05
-20     chaos_child       Wed  25:35
+20     kenkabancho_otome Wed  22:30 00:10:00
+20     room_mate         Wed  22:40 00:05:00
+20     akunogundan       Wed  22:45 00:05:00
+20     rabukome          Wed  22:50 00:05:00
+20     sakurada_reset    Wed  23:30
+20     sakura_quest      Wed  24:00
+211    rokudenashi       Wed  24:00
+20     shumatsu          Wed  25:05
+20     machiavellism     Wed  25:35
  
 ## Thu
-20     masamunekun       Thu  22:30
-20     marginal4         Thu  23:30
-20     allout            Thu  24:00
-211    maidragon         Thu  24:00
-211    marginal4         Thu  24:30
-21     kuzunohonkai      Thu  24:55
-15     aimaime           Thu  25:00 00:05:00
-22     urara             Thu  25:58
-22     seiren            Thu  26:28
+20     nogame_nolife     Thu  22:00
+20     tsukigakirei      Thu  24:00
+211    sakura_quest      Thu  24:00
+21     saekano_2nd       Thu  24:55
+22     clockwork_planet  Thu  25:58
+22     kabukibu          Thu  26:28
+23     rennaiboukun      Thu  26:35
  
 ## Fri
 #25     sen_to_chihiro    Fri  21:00  02:35:00
-211    haihuri           Fri  23:30
-103    evangelion        Fri  23:45
-211    saekano           Fri  24:00
-20     sukusuto          Fri  24:30
-211    sukusuto          Fri  24:30
-20     youjosenki        Fri  25:05
-22     aoeku_2nd         Fri  25:55
-22     shouwagenroku_2nd Fri  26:25
-211    chaos_child       Fri  27:00
-21     bonobono          Fri  28:52 00:10:00
+20     aninitukerukusur  Fri  21:55 00:05:00
+20     twinangelbreak    Fri  22:00
+20     kado              Fri  22:30
+211    hinakonote        Fri  23:00
+211    sakurada_reset    Fri  23:30
+103    haruhi            Fri  23:45
+211    owarimonogatari   Fri  24:00
+20     sword_oratoria    Fri  24:30
+211    sword_oratoria    Fri  24:30
+20     nobunaganoshinobi Fri  25:35 00:05:00
+20     taizai_3rd        Fri  25:05
+20     hinakonote        Fri  25:40
+22     bahamut           Fri  25:55
+22     berserk           Fri  26:25
+211    shumatsu          Fri  27:00
 
 ## Sat
 23     the_fishing       Sat  17:30
@@ -81,15 +83,19 @@
 20     ginnohakamori     Sat  21:00 00:15:00
 20     shinkegi_2nd      Sat  22:00
 20     bandori           Sat  22:30
-27     ryunohaisha       Sat  23:00 00:50:00
+27     atom_beginning    Sat  23:00
 20     re_creators       Sat  23:30
 211    re_creators       Sat  23:30
 20     granblue          Sat  24:00
 211    granblue          Sat  24:00
+161    bahamut           Sat  24:00
 20     eromanga          Sat  24:30
 211    eromanga          Sat  24:30
-#161    aoeku_2nd         Sat  24:00
-#161    shouwagenroku_2nd Sat  24:30
-#161    urara             Sat  25:00
-#161    seiren            Sat  25:30
+171    rennaiboukun      Sat  24:30
+161    berserk           Sat  24:30
+20     uesakasumire      Sat  25:00
+211    uesakasumire      Sat  25:00
+161    clockwork_planet  Sat  25:00
+161    kabukibu          Sat  25:30
 24     tigermask_w       Sat  26:30
+211    twinangelbreak    Sat  27:00
