@@ -2,100 +2,110 @@
 103    cc_sakura         Sun  07:30
 
 ## Sun
-24     ex-aid            Sun  08:00
+24     build             Sun  08:00
 24     precure_alamode   Sun  08:30
 25     dash              Sun  18:59  00:59:30
 211    zgundam           Sun  19:00
 20     dodesho           Sun  21:00
-20     uchoutenkazoku_2nd Sun  22:00
-20     alice_to_zouroku  Sun  22:30
-20     id-0              Sun  23:00
-18     botoms            Sun  23:00
-#20     idle_jihen        Sun  23:30
-20     littlewitchacademia Sun  24:00
-211    tsugumomo         Sun  24:00
-211    littlewitchacademia Sun  24:30
-20     tsugumomo         Sun  24:30
-211    shingeki_2nd      Sun  25:00
-211    tsukigakirei      Sun  25:30
+20     centour           Sun  22:00
+20     knights_and_magic Sun  22:30
+20     princessprincipal Sun  23:00
+20     ballroom          Sun  23:30
+20     keppekidanshi     Sun  24:00
+20     battlegirlhighschool Sun  24:30
+211    battlegirlhighschool Sun  24:30
+20     skirt             Sun  25:00 00:05:00
+211    ballroom          Sun  25:00
+211    kakegurui         Sun  26:00
+211    centour           Sun  27:00
  
 ## Mon
-20     akindo            Mon  21:55 00:05:00
-20     warauserusuman    Mon  23:00
-20     zerokarahajimeru  Mon  24:30
-211    zerokarahajimeru  Mon  24:30
-20     framearmsgirl     Mon  25:05
-23     yowamushi_3rd     Mon  25:35
-211    bandori           Mon  26:00
+20     youkaiapart       Mon  23:00
+20     koitouso          Mon  24:00
+211    koitouso          Mon  24:00
+20     3p                Mon  24:30
+211    3p                Mon  24:30
+23     isekaishokudou    Mon  25:35
+211    hajimetenogyaru   Mon  27:00
  
 ## Tue
-20     delemas_gekijou   Tue  21:55 00:05:00
-20     hukumenkei        Tue  23:00
-211    framearmsgirl     Tue  23:30
-211    alice_to_zouroku  Tue  24:00
-181    kado              Tue  24:00
-20     rokudenashi       Tue  24:30
-211    id-0              Tue  24:30
-23     natsume_6th       Tue  25:35
-23     heine             Tue  26:05
+20     gundum_uc         Tue  22:30
+20     ahogirl           Tue  23:00 00:15:00
+20     turezure_childlen Tue  23:15 00:15:00
+20     keppekidanshi     Tue  23:30
+211    knights_and_magic Tue  24:00
+20     newgame_2nd       Tue  24:30
+211    princessprincipal Tue  24:30
+23     guruguru          Tue  25:35
+25     nanamaru          Tue  25:59
+211    ahogirl           Tue  26:00 00:15:00
+211    turezure_childlen Tue  26:15 00:15:00
  
 ## Wed
-20     kenkabancho_otome Wed  22:30 00:10:00
-20     room_mate         Wed  22:40 00:05:00
-20     akunogundan       Wed  22:45 00:05:00
-20     rabukome          Wed  22:50 00:05:00
+20     kaito             Wed  22:00 00:10:00
+20     ikemensengoku     Wed  22:10 00:05:00
+20     kurione           Wed  22:30 00:10:00
+20     tekyu_9th         Wed  22:40 00:05:00
+20     noranekoheart     Wed  22:45 00:05:00
+20     laffandor         Wed  22:50 00:10:00
 20     sakurada_reset    Wed  23:30
 20     sakura_quest      Wed  24:00
-211    rokudenashi       Wed  24:00
-20     shumatsu          Wed  25:05
-20     machiavellism     Wed  25:35
+211    newgame_2nd       Wed  24:00
+211    sumaho            Wed  25:00
+20     jitsuryoku        Wed  25:05
+20     hajimetenogyaru   Wed  25:35
+20     ntr               Wed  27:40 00:10:00
  
 ## Thu
-20     nogame_nolife     Thu  22:00
-20     tsukigakirei      Thu  24:00
+20     sumaho            Thu  22:00
+20     gamers            Thu  23:30
 211    sakura_quest      Thu  24:00
-21     saekano_2nd       Thu  24:55
-22     clockwork_planet  Thu  25:58
-22     kabukibu          Thu  26:28
-23     rennaiboukun      Thu  26:35
+211    gamers            Thu  24:30
+21     dive              Thu  24:55
+15     tylor             Thu  25:30 00:05:00
+22     conveni_kareshi   Thu  25:58
+22     cheer_fruits      Thu  26:28
  
 ## Fri
 #25     sen_to_chihiro    Fri  21:00  02:35:00
-20     aninitukerukusur  Fri  21:55 00:05:00
-20     twinangelbreak    Fri  22:00
-20     kado              Fri  22:30
-211    hinakonote        Fri  23:00
+20     18if              Fri  22:00
+20     vatican           Fri  22:30
+211    jitsuryoku        Fri  23:00
 211    sakurada_reset    Fri  23:30
 103    haruhi            Fri  23:45
-211    owarimonogatari   Fri  24:00
-20     sword_oratoria    Fri  24:30
-211    sword_oratoria    Fri  24:30
+20     jigokushoujo_2nd  Fri  24:00
+211    jigokushoujo_2nd  Fri  24:00
+20     shihaisha         Fri  24:30
+211    shihaisha         Fri  24:30
+20     rwby              Fri  25:05
 20     nobunaganoshinobi Fri  25:35 00:05:00
-20     taizai_3rd        Fri  25:05
-20     hinakonote        Fri  25:40
+20     made_in_abyss     Fri  25:40
 22     bahamut           Fri  25:55
-22     berserk           Fri  26:25
-211    shumatsu          Fri  27:00
+22     altair            Fri  26:25
+211    made_in_abyss     Fri  27:00
+15     tylor             Fri  26:55 00:05:00
+211    ntr               Fri  27:30 00:10:00
 
 ## Sat
 23     the_fishing       Sat  17:30
 27     buratamori        Sat  19:30 00:46:00
-20     ginnohakamori     Sat  21:00 00:15:00
-20     shinkegi_2nd      Sat  22:00
-20     bandori           Sat  22:30
-27     atom_beginning    Sat  23:00
+20     enmusubi          Sat  21:00
+20     kakegurui         Sat  22:00
+20     hinaroji          Sat  22:30
+27     the_reflection    Sat  23:00
+211    hinaroji          Sat  23:00
 20     re_creators       Sat  23:30
 211    re_creators       Sat  23:30
-20     granblue          Sat  24:00
-211    granblue          Sat  24:00
+20     fate_apocrypha    Sat  24:00
+211    fate_apocrypha    Sat  24:00
 161    bahamut           Sat  24:00
-20     eromanga          Sat  24:30
-211    eromanga          Sat  24:30
-171    rennaiboukun      Sat  24:30
-161    berserk           Sat  24:30
-20     uesakasumire      Sat  25:00
-211    uesakasumire      Sat  25:00
-161    clockwork_planet  Sat  25:00
-161    kabukibu          Sat  25:30
-24     tigermask_w       Sat  26:30
-211    twinangelbreak    Sat  27:00
+20     katsugeki         Sat  24:30
+211    katsugeki         Sat  24:30
+171    isekaishokudou    Sat  24:30
+161    altair            Sat  24:30
+20     symphogere_4th    Sat  25:00
+211    symphogere_4th    Sat  25:00
+161    conveni_kareshi   Sat  25:00
+20     myhero            Sat  25:30
+161    cheer_fruits      Sat  25:30
+211    vatican           Sat  27:00
