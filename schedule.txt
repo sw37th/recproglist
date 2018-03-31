@@ -1,110 +1,104 @@
-## evening time
-103    euphonium         Sun  07:30
-
 ## Sun
-24     precure_alamode   Sun  08:30
+103    cc_sakura_2nd     Sun  07:30
+24     hug_precure       Sun  08:30
 24     build             Sun  09:00
+24     lupin_vs_pato     Sun  09:30
+15     fumoffu           Sun  10:30
 25     dash              Sun  18:59  00:59:30
 15     dodesho           Sun  21:00
-15     animegatarizu     Sun  22:00
-15     imoutosaeirebaii  Sun  22:30
-15     kujiranokoraha    Sun  23:00
-15     ballroom          Sun  23:30
-15     umaru_2nd         Sun  24:00
-211    umaru_2nd         Sun  24:00
-16     tesagure_3rd      Sun  24:00
-15     kekkaisensen_2nd  Sun  24:30
-211    kekkaisensen_2nd  Sun  24:30
-15     omiai             Sun  25:00 00:05:00
-211    ballroom          Sun  25:00
-211    ousama            Sun  25:30
-15     code_realize      Sun  25:35
+15     ito_junji         Sun  22:00
+15     idlish7           Sun  22:30
+15     gakuenbabysitters Sun  23:00
+15     citrus            Sun  23:30
+15     toukenranbu_2nd   Sun  24:00
+211    toukenranbu_2nd   Sun  24:00
+15     kokkoku           Sun  24:30
+211    kokkoku           Sun  24:30
+15     jk25              Sun  25:00 00:05:00
+211    tojinomiko        Sun  25:00
+211    mitsuboshi        Sun  25:30
+15     mitsuboshi        Sun  25:35
  
 ## Mon
-15     youkaiapart       Mon  23:00
-15     uq_holder         Mon  24:00
-211    uq_holder         Mon  24:00
-181    urahara           Mon  24:00
-15     tsuukaa           Mon  24:30
-181    tsuukaa           Mon  24:30
-211    dies_irae         Mon  24:30
-15     lovekome_2nd      Mon  25:10 00:05:00
-15     yamanosusume_time Mon  25:14 00:21:00
+15     takagisan         Mon  23:00
+15     basilisk_2nd      Mon  24:00
+211    basilisk_2nd      Mon  24:00
+15     ryuuounooshigoto  Mon  24:30
+181    ryuuounooshigoto  Mon  24:30
+15     ryuuounooshigoto_kansou  Mon  25:00 00:05:00
+15     gdmen             Mon  25:10 00:10:00
+15     yamanosusume_time Mon  25:19 00:16:00
 23     osomatsusan_2nd   Mon  25:35
-15     netoju            Mon  25:40
-23     wake_up_girls_2nd Mon  26:05
+23     yowamushi_4th     Mon  26:05
  
 ## Tue
-15     delemas_gekijou_2nd Tue  21:54 00:06:00
-15     gundum_uc         Tue  22:29 00:31:00
-15     night_blood       Tue  23:00
-211    girls_und_panzer  Tue  23:30
-211    imoutosaeirebaii  Tue  24:00
-15     shokugeki_3rd     Tue  24:30
-211    kujiranokoraha    Tue  24:30
-181    just_because      Tue  24:30
-15     osakeha           Tue  25:00 00:05:00
-23     guruguru          Tue  25:35
-15     evil_or_live      Tue  25:41
-25     infini-t_force    Tue  25:59
+15     sorayorimo        Tue  23:00
+211    sorayorimo        Tue  23:30
+211    idlish7           Tue  24:00
+15     overlord_2nd      Tue  24:30
+211    gakuenbabysitters Tue  24:30
+181    citrus            Tue  24:30
+211    takagisan         Tue  25:30
+23     saikikusuo_2nd    Tue  25:35
  
 ## Wed
-15     amekon            Wed  22:25 00:05:00
-15     tsukipro          Wed  22:30
+15     damepri           Wed  22:30
 15     bemu              Wed  23:30
-15     konohanakitan     Wed  24:00
+15     violet_evergarden Wed  24:00
+211    overlord_2nd      Wed  24:00
 211    mahoutsukainoyome Wed  25:00
-15     shobicchi         Wed  25:05
-211    tsukipro          Wed  25:30
  
 ## Thu
-15     urahara           Thu  22:00
-15     just_because      Thu  23:30
-15     junitaisen        Thu  24:00
-211    konohanakitan     Thu  24:00
-211    junitaisen        Thu  24:30
-21     inuyashiki        Thu  24:55
-211    code_realize      Thu  25:00
-22     dynamic_chord     Thu  25:58
+15     koizumisan        Thu  22:00
+15     meruhen_medohen   Thu  22:30
+15     yurukyan          Thu  23:30
+15     deathmarch        Thu  24:00
+211    violet_evergarden Thu  24:00
+211    deathmarch        Thu  24:30
+21     ameagari          Thu  24:55
+211    koizumisan        Thu  25:00
+211    yurukyan          Thu  25:30
+22     miira             Thu  25:58
+22     dagashikashi_2nd  Thu  26:28 00:15:00
+22     takunomi          Thu  26:43 00:15:00
  
 ## Fri
 #25     sen_to_chihiro    Fri  21:00  02:35:00
-15     chcchaisan        Fri  21:54 00:06:00
-258    fireball_3rd      Fri  21:55 00:06:00
-15     dorifesu          Fri  22:00
-15     shoujoshumatsuryokou Fri  22:30
-211    shoujoshumatsuryokou Fri  23:00
-15     10cm              Fri  24:00
-211    10cm              Fri  24:00
-15     kino              Fri  24:30
-211    kino              Fri  24:30
-211    shobicchi         Fri  25:00
-15     dies_irae         Fri  25:05
-15     ousama            Fri  25:40
-22     yuukiyuuna_2nd    Fri  25:55
-15     glamorous_heroes  Fri  26:10 00:10:00
-22     altair            Fri  26:25
+15     hatarakuonisan    Fri  21:54 00:06:00
+15     houshinengi       Fri  22:00
+15     hakumei_mikochi   Fri  22:30
+211    hakumei_mikochi   Fri  23:00
+15     grancrest         Fri  24:00
+211    grancrest         Fri  24:00
+16     cowboy_bebop      Fri  24:00
+15     hakatatonkotsu    Fri  24:30
+211    hakatatonkotsu    Fri  24:30
+15     tojinomiko        Fri  25:05
+211    houshinengi       Fri  25:30
+15     tsr               Fri  25:40
+22     beatless          Fri  25:55
+15     kenouchou         Fri  26:10
+22     killingbites      Fri  26:25
 
 ## Sat
 23     the_fishing       Sat  17:30
-211    zgundam           Sat  19:00
 20     buratamori        Sat  19:30 00:46:00
-15     enmusubi          Sat  21:00
-15     housekinokuni     Sat  22:00
-15     lovelive_sunshine_2nd Sat  22:30
+15     sanriodanshi      Sat  22:00
 20     lion_2nd          Sat  23:00
-211    housekinokuni     Sat  23:00
-15     imas_sidem        Sat  23:30
-211    imas_sidem        Sat  23:30
-15     fate_apocrypha    Sat  24:00
-211    fate_apocrypha    Sat  24:00
-161    yuukiyuuna_2nd    Sat  24:00
-15     blend_s           Sat  24:30
-211    blend_s           Sat  24:30
+15     franxx            Sat  23:30
+211    franxx            Sat  23:30
+15     fate_ele          Sat  24:00
+211    fate_ele          Sat  24:00
+161    beatless          Sat  24:00
+15     slowstart         Sat  24:30
+211    slowstart         Sat  24:30
 171    osomatsusan_2nd   Sat  24:30
-161    altair            Sat  24:30
-15     reitetsu_2nd      Sat  25:00
-211    reitetsu_2nd      Sat  25:00
-161    dynamic_chord     Sat  25:00
+161    killingbites      Sat  24:30
+15     poputepipikku     Sat  25:00
+211    poputepipikku     Sat  25:00
+161    miira             Sat  25:00
 15     mahoutsukainoyome Sat  25:30
-211    lovelive_sunshine_2nd Sat  25:30
+211    haihuri           Sat  25:30
+161    dagashikashi_2nd  Sat  25:30 00:15:00
+161    takunomi          Sat  25:45 00:15:00
+211    korehazonbidesuka Sat  27:00
