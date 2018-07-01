@@ -1,104 +1,109 @@
 ## Sun
-103    cc_sakura_2nd     Sun  07:30
+103    haikyu            Sun  07:30
 24     hug_precure       Sun  08:30
 24     build             Sun  09:00
+23     gegege            Sun  09:00
 24     lupin_vs_pato     Sun  09:30
-15     fumoffu           Sun  10:30
+15     ryuuounooshigoto  Sun  10:30
 25     dash              Sun  18:59  00:59:30
 15     dodesho           Sun  21:00
-15     ito_junji         Sun  22:00
-15     idlish7           Sun  22:30
-15     gakuenbabysitters Sun  23:00
-15     citrus            Sun  23:30
-15     toukenranbu_2nd   Sun  24:00
-211    toukenranbu_2nd   Sun  24:00
-15     kokkoku           Sun  24:30
-211    kokkoku           Sun  24:30
-15     jk25              Sun  25:00 00:05:00
+15     nil_admirari      Sun  22:00
+15     amanchu_2nd       Sun  23:00
+15     caligula          Sun  23:30
+15     umamusume         Sun  24:00
+211    umamusume         Sun  24:00
+20     pianonomori       Sun  24:10
+15     shokugeki_3rd     Sun  24:30
+211    shokugeki_3rd     Sun  24:30
+15     amaichoubatsu     Sun  25:00 00:05:00
 211    tojinomiko        Sun  25:00
-211    mitsuboshi        Sun  25:30
-15     mitsuboshi        Sun  25:35
+15     devilsline        Sun  25:35
+23     happykiss         Sun  25:35
  
 ## Mon
-15     takagisan         Mon  23:00
+15     kakuriyo          Mon  22:30
+15     goldenkamui       Mon  23:00
 15     basilisk_2nd      Mon  24:00
 211    basilisk_2nd      Mon  24:00
-15     ryuuounooshigoto  Mon  24:30
-181    ryuuounooshigoto  Mon  24:30
-15     ryuuounooshigoto_kansou  Mon  25:00 00:05:00
-15     gdmen             Mon  25:10 00:10:00
-15     yamanosusume_time Mon  25:19 00:16:00
-23     osomatsusan_2nd   Mon  25:35
+15     soutennoken       Mon  24:30
+181    soutennoken       Mon  24:30
+211    devilsline        Mon  24:30
+15     tiramisu          Mon  25:00 00:40:00
+211    goldenkamui       Mon  25:00
+23     kyaputsuba        Mon  25:35
+15     ore               Mon  25:40
 23     yowamushi_4th     Mon  26:05
+211    tiramisu          Mon  26:30 00:10:00
  
 ## Tue
-15     sorayorimo        Tue  23:00
-211    sorayorimo        Tue  23:30
-211    idlish7           Tue  24:00
-15     overlord_2nd      Tue  24:30
-211    gakuenbabysitters Tue  24:30
-181    citrus            Tue  24:30
-211    takagisan         Tue  25:30
+15     tokyo_ghoul_2nd   Tue  23:00
+15     dxd_hero          Tue  24:30
+211    amanchu_2nd       Tue  24:30
+15     tachibanakan      Tue  25:00 00:05:00
+211    sorayorimo        Tue  25:00
+15     oregairu          Tue  25:05
 23     saikikusuo_2nd    Tue  25:35
+25     lupin_part5       Tue  25:29
+25     3d_kanojo         Tue  25:59
+211    tokyo_ghoul_2nd   Tue  26:30
  
 ## Wed
-15     damepri           Wed  22:30
-15     bemu              Wed  23:30
-15     violet_evergarden Wed  24:00
-211    overlord_2nd      Wed  24:00
-211    mahoutsukainoyome Wed  25:00
+15     rokuhoudou        Wed  22:00 00:25:00
+15     alice_or_alice    Wed  22:25 00:05:00
+15     pandora           Wed  23:30
+15     lastperiod        Wed  24:00
+15     butlers           Wed  25:05
+15     steins_gate_zero  Wed  25:35
  
 ## Thu
-15     koizumisan        Thu  22:00
-15     meruhen_medohen   Thu  22:30
-15     yurukyan          Thu  23:30
-15     deathmarch        Thu  24:00
-211    violet_evergarden Thu  24:00
-211    deathmarch        Thu  24:30
-21     ameagari          Thu  24:55
-211    koizumisan        Thu  25:00
-211    yurukyan          Thu  25:30
-22     miira             Thu  25:58
-22     dagashikashi_2nd  Thu  26:28 00:15:00
-22     takunomi          Thu  26:43 00:15:00
+15     tadakun           Thu  22:00
+15     gineiden          Thu  22:30
+211    tadakun           Thu  23:00
+15     comic_girls       Thu  23:30
+211    comic_girls       Thu  23:30
+15     hisonetomasotan   Thu  24:00
+181    hisonetomasotan   Thu  24:00
+211    yurukyan          Thu  24:30
+21     wotaku            Thu  24:55
+211    doreiku           Thu  25:00
+15     doreiku           Thu  25:05
+22     megarobokusu      Thu  25:28
+22     saredo            Thu  25:58
  
 ## Fri
 #25     sen_to_chihiro    Fri  21:00  02:35:00
-15     hatarakuonisan    Fri  21:54 00:06:00
 15     houshinengi       Fri  22:00
-15     hakumei_mikochi   Fri  22:30
-211    hakumei_mikochi   Fri  23:00
+15     fullmetalpanic_4th Fri  22:30
+211    steins_gate_zero  Fri  23:00
+211    pandora           Fri  23:30
 15     grancrest         Fri  24:00
 211    grancrest         Fri  24:00
-16     cowboy_bebop      Fri  24:00
-15     hakatatonkotsu    Fri  24:30
-211    hakatatonkotsu    Fri  24:30
+23     kodoku_7th        Fri  24:12
+16     cowboy_bebop      Fri  24:30
+15     lostorage_wixoss  Fri  24:30
+211    lostorage_wixoss  Fri  24:30
 15     tojinomiko        Fri  25:05
+22     beatless          Fri  25:25
 211    houshinengi       Fri  25:30
-15     tsr               Fri  25:40
-22     beatless          Fri  25:55
-15     kenouchou         Fri  26:10
-22     killingbites      Fri  26:25
+15     nobunaganoshinobi_3rd Fri  25:35 00:05:00
+15     hinamatsuri       Fri  25:40
+22     mahoushoujo_saito Fri  25:55
+211    fullmetalpanic_4th Fri  27:00
 
 ## Sat
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-15     sanriodanshi      Sat  22:00
-20     lion_2nd          Sat  23:00
+211    build_divers      Sat  19:30
 15     franxx            Sat  23:30
 211    franxx            Sat  23:30
-15     fate_ele          Sat  24:00
-211    fate_ele          Sat  24:00
+15     gungaleonline     Sat  24:00
+211    gungaleonline     Sat  24:00
 161    beatless          Sat  24:00
-15     slowstart         Sat  24:30
-211    slowstart         Sat  24:30
-171    osomatsusan_2nd   Sat  24:30
-161    killingbites      Sat  24:30
-15     poputepipikku     Sat  25:00
-211    poputepipikku     Sat  25:00
-161    miira             Sat  25:00
-15     mahoutsukainoyome Sat  25:30
-211    haihuri           Sat  25:30
-161    dagashikashi_2nd  Sat  25:30 00:15:00
-161    takunomi          Sat  25:45 00:15:00
-211    korehazonbidesuka Sat  27:00
+15     persona5          Sat  24:30
+211    persona5          Sat  24:30
+161    mahoushoujo_saito Sat  24:30
+15     reitetsu_3rd      Sat  25:00
+211    reitetsu_3rd      Sat  25:00
+15     lost_song         Sat  25:30
+211    gineiden          Sat  25:30
+211    hinamatsuri       Sat  27:00
