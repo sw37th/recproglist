@@ -1,106 +1,112 @@
 ## Sun
-103    haikyu            Sun  07:30
+103    haikyu_2nd        Sun  07:30
 24     hug_precure       Sun  08:30
 24     jiou              Sun  09:00
 23     gegege            Sun  09:00
 24     lupin_vs_pato     Sun  09:30
 25     dash              Sun  18:59  00:59:30
 15     dodesho           Sun  21:00
-15     island            Sun  22:00
-15     planet_with       Sun  22:30
-15     asobiasobase      Sun  23:30
-15     hanebado          Sun  24:00
-211    hanebado          Sun  24:00
-20     tsukumogami       Sun  24:10 00:26:00
+15     ulysses           Sun  22:00
+15     doug_and_kirill   Sun  22:30
+211    otonanobouguyasan Sun  22:54 00:06:00
+15     release_the_spyce Sun  23:30
+211    kyuketukisan      Sun  23:30
+15     anima_yell        Sun  24:00
+211    anima_yell        Sun  24:00
+16     turn_a_gundam     Sun  24:00
+20     tsurune           Sun  24:10 00:26:00
 15     baki              Sun  24:30
-20     shingeki_3rd      Sun  24:35
-15     joshiochi         Sun  25:00 00:05:00
-211    asobiasobase      Sun  25:00
+211    gaikotsushotennin Sun  24:30 00:15:00
+211    himote_house      Sun  24:45 00:15:00
+15     shudengo          Sun  25:00 00:05:00
+211    release_the_spyce Sun  25:00
+15     gaikotsushotennin Sun  25:35 00:15:00
+15     himote_house      Sun  25:50 00:15:00
  
 ## Mon
 15     aninitsukeru_2nd  Mon  21:54 00:06:00
 15     tourikenyuuki     Mon  22:00
-15     kakuriyo          Mon  22:30
-181    jashinchan        Mon  24:00
-211    aguu              Mon  24:00
-161    phantom_twilight  Mon  24:30
-211    umamusume         Mon  24:30
-15     akkun             Mon  25:00 00:05:00
-15     jashinchan        Mon  25:05
-15     one_room_2nd      Mon  25:35 00:05:00
-15     yamanosusume_3rd  Mon  25:39 00:16:00
+15     akanesasu         Mon  22:30
+15     goldenkamui_2nd   Mon  23:00
+15     slime             Mon  24:00
+211    slime             Mon  24:00
+181    soutennoken_2nd   Mon  24:30
+211    goldenkamui_2nd   Mon  25:00
+15     tiramisu_2nd      Mon  25:00 00:10:00
+15     korinokoe         Mon  25:10 00:15:00
+15     otonanobouguyasan Mon  25:25 00:05:00
 23     kyaputsuba        Mon  25:35
-23     kyoutoteramachi   Mon  26:05
-211    yamanosusume_3rd  Mon  26:29 00:16:00
+23     kenenken          Mon  26:05
+211    tiramisu_2nd      Mon  26:30 00:10:00
+211    hashirituzukete   Mon  26:40 00:15:00
  
 ## Tue
-15     delemas_gekijou_3rd Tue 21:54 00:06:00
-211    delemas_gekijou_3rd Tue 21:54 00:06:00
-15     senjuushi         Tue  23:00
-15     overlord_3rd      Tue  24:30
-#211    backstreetgirls   Tue  25:00
+211    side_m_mini       Tue  21:54 00:06:00
+15     tokyo_ghoul_final Tue  23:00
+211    doug_and_kirill   Tue  24:00
+141    kazegatuyoku      Tue  24:00
+15     jingaisan         Tue  25:00 00:05:00
 15     oregairu_2nd      Tue  25:05
-25     lupin_part5       Tue  25:29
-15     onmyouji_heian    Tue  25:35 00:05:00
-23     bakabon           Tue  25:35
-#15     backstreetgirls   Tue  25:40
+25     kazegatuyoku      Tue  25:29
+211    conception        Tue  25:30
+15     conception        Tue  25:40
 25     tonegawa          Tue  25:59
+211    tokyo_ghoul_final Tue  26:30
  
 ## Wed
-15     pandora           Wed  23:30
-15     free_3rd          Wed  24:00
-211    overlord_3rd      Wed  24:00
-211    gungaleonline     Wed  24:30
-15     angolmois         Wed  25:05
-15     steins_gate_zero  Wed  25:35
+15     soratouminoaida   Wed  24:00
+181    ingress           Wed  24:00
+211    eromanga          Wed  24:30
+21     ingress           Wed  24:55
+15     rerided           Wed  25:05
+15     imoutojanai       Wed  25:35
  
 ## Thu
-15     doreimajutsu      Thu  22:00
-15     sunoharasou       Thu  22:30
-211    sunoharasou       Thu  23:00
-15     tenrou            Thu  23:30
-211    tenrou            Thu  23:30
-15     yumeoukoku        Thu  24:00
-181    doreimajutsu      Thu  24:00
-211    free_3rd          Thu  24:00
+15     hangyakusei       Thu  22:00
+15     karakuri_circus   Thu  22:30
+211    hangyakusei       Thu  23:00
+15     merc_storia       Thu  23:30
+211    merc_storia       Thu  23:30
+15     zombieland        Thu  24:00
+211    karakuri_circus   Thu  24:00
+211    zombieland        Thu  24:30
 21     banana            Thu  24:55
-22     starlight         Thu  25:28
-22     shichiseinosubaru Thu  25:58
+15     debidoru          Thu  25:05 00:15:00
+22     gakuenbasara      Thu  25:28
+22     bakumatsu         Thu  25:58
  
 ## Fri
-15     hatarakuonisan_2nd Fri  21:54 00:06:00
-15     chiochan          Fri  22:00
-15     satsurikunotenshi Fri  22:30
-211    steins_gate_zero  Fri  23:00
-211    pandora           Fri  23:30
-15     owarimonogatari   Fri  24:00
-211    owarimonogatari   Fri  24:00
-15     highscoregirl     Fri  24:30
-211    highscoregirl     Fri  24:30
-16     cowboy_bebop      Fri  24:30
-171    kyoutoteramachi   Fri  24:59
-211    angolmois         Fri  25:00
-15     lordofvermilion   Fri  25:05
-15     nobunaganoshinobi_3rd Fri  25:35 00:05:00
-15     harukana          Fri  25:40
-22     happysugarlife    Fri  25:55
-22     granburu          Fri  26:25
+15     hinomaruzumou     Fri  22:00
+15     yagatekimininaru  Fri  22:30
+211    hinomaruzumou     Fri  23:30
+211    dakaretaiotoko    Fri  24:00
+15     toaru_3rd         Fri  24:30
+211    toaru_3rd         Fri  24:30
+211    yagatekimininaru  Fri  25:00
+15     jojo_5th          Fri  25:05
+211    jojo_5th          Fri  25:30
+15     okoshiyasu        Fri  25:35 00:05:00
+15     uchinomeidoga     Fri  25:40
+22     kishukugakkouno   Fri  25:25
+22     irozukusekaino    Fri  25:55
+211    imoutojanai       Fri  27:00
 
 ## Sat
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-211    build_divers      Sat  19:30
-15     yuragisou         Sat  23:30
-211    yuragisou         Sat  23:30
-15     hatarakusaibou    Sat  24:00
-211    hatarakudaibou    Sat  24:00
-161    happysugarlife    Sat  24:00
-15     persona5          Sat  24:30
-211    persona5          Sat  24:30
-161    guranburu         Sat  24:30
-15     ongakushoujo      Sat  25:00
-211    ongakushoujo      Sat  25:00
-15     ikusaotome        Sat  25:30
-211    ikusaotome        Sat  25:30
-161    shichiseinosubaru Sat  25:30
-211    harukana          Sat  27:00
+15     kyuketukisan      Sat  22:00
+15     aobuta            Sat  23:30
+211    aobuta            Sat  23:30
+15     sao_3rd           Sat  24:00
+211    sao_3rd           Sat  24:00
+15     beelzebubjou      Sat  24:30
+211    beelzebubjou      Sat  24:30
+15     ssss_gridman      Sat  25:00
+211    ssss_gridman      Sat  25:00
+161    kishukugakkouno   Sat  25:00
+15     goburin           Sat  25:30
+211    goburin           Sat  25:30
+161    irozukusekaino    Sat  25:30
+161    gakuenbasara      Sat  26:00
+161    bakumatsu         Sat  26:30
+211    uchinomeidoga     Sat  27:00
