@@ -1,110 +1,89 @@
 ## Sun
-103    haikyu_2nd        Sun  07:30
+103    haikyu_3rd        Sun  07:30
 24     st_precure        Sun  08:30
 24     jiou              Sun  09:00
 23     gegege            Sun  09:00
 24     ryusouja          Sun  09:30
+15     yamanosusume_2nd  Sun  10:30
 25     dash              Sun  18:59  00:59:30
-15     dodesho           Sun  21:00
-15     mononokean_2nd    Sun  22:00
-15     kotobuki          Sun  22:30
-15     kakegurui         Sun  23:30
-141    kakegurui         Sun  23:30
-211    grimugar          Sun  24:00
+15     magumeru          Sun  22:00
+15     shometsutoshi     Sun  23:30
+15     faily_gone        Sun  24:00
+211    faily_gone        Sun  24:00
 16     turn_a_gundam     Sun  24:00
-20     pianonomori_2nd   Sun  24:10 00:26:00
-15     mariana           Sun  24:30 00:15:00
-211    uenosanhabukiyou  Sun  24:30 00:15:00
-211    mariana           Sun  24:45 00:15:00
-15     papadatte         Sun  25:00 00:05:00
+20     shingeki_3rd      Sun  24:10 00:26:00
+15     occult_koumuin    Sun  24:30
+211    occult_koumuin    Sun  24:30
+20     gundam_the_origin Sun  24:35 00:26:00
+15     araiyasan         Sun  25:00 00:05:00
+211    shometsutoshi     Sun  25:00
+15     nandekokoni       Sun  25:05 00:15:00
+211    nandekokoni       Sun  25:30 00:15:00
+23     cinderella_nine   Sun  25:35
  
 ## Mon
-15     minitoji          Mon  21:54 00:06:00
-211    minitoji          Mon  21:54 00:06:00
+15     yatogame          Mon  21:54 00:06:00
 15     dororo            Mon  22:00
-15     egaonodaika       Mon  22:30
-15     mobu_2nd          Mon  23:00
-141    flying_witch      Mon  23:30
-15     slime             Mon  24:00
-211    slime             Mon  24:00
-181    mobu_2nd          Mon  24:00
-181    pastel_memories   Mon  24:30
+15     super_futaba_time Mon  24:00
+211    robihachi         Mon  24:00
 211    dororo            Mon  24:30
-211    danmachi          Mon  25:00
-15     uenosanhabukiyou  Mon  25:05 00:15:00
-15     tekyuu            Mon  25:20 00:10:00
-15     yamanosusume      Mon  25:30 00:05:00
-23     kyaputsuba        Mon  25:35
-23     kemonofriends_2nd Mon  26:05
+211    namuamida         Mon  25:00
  
 ## Tue
+15     delemas_gekijou_3rd Tue 21:54 00:06:00
+211    delemas_gekijou_3rd Tue 21:54 00:06:00
 15     g_gundam          Tue  22:29
-15     circlet_princess  Tue  23:00
-211    kotobuki          Tue  24:00
-141    kazegatuyoku      Tue  24:00
-181    neverland         Tue  24:00
-15     wataten           Tue  24:30
-211    yurukyan          Tue  24:30
-15     ekotachan         Tue  25:00 00:05:00
-15     nijiirokokoa      Tue  25:35 00:05:00
-22     otanishimi        Tue  25:28
-25     kazegatuyoku      Tue  25:29
-25     3d_kanojo_2nd     Tue  25:59
+15     isekai_quartet    Tue  24:30 00:15:00
+15     strikewitches_501 Tue  24:45 00:15:00
+23     onepanman_2nd     Tue  25:35
  
 ## Wed
-15     kemurikusa        Wed  22:30
-15     meijitokyo        Wed  23:30
-15     virtualsan        Wed  24:00
-181    revisions         Wed  24:00 00:29:30
-211    wataten           Wed  24:00
-181    kemurikusa        Wed  24:30
-211    aobuta            Wed  24:30
-171    kemonofriends_2nd Wed  24:30
-21     revisions         Wed  24:55
+15     yu-no             Wed  22:00
+15     senkosan          Wed  23:30
+21     carole_tuesday    Wed  24:55
 15     tatenoyushano     Wed  25:05
 211    tatenoyushano     Wed  25:30
-15     konosuba          Wed  25:35
+15     konosuba_2nd      Wed  25:35
  
 ## Thu
-15     dimension         Thu  22:00
+15     hangyakusei_2nd   Thu  22:00
 15     karakuri_circus   Thu  22:30
-211    ssss_gridman      Thu  23:00
-15     doukyonin         Thu  24:00
+211    hangyakusei_2nd   Thu  23:00
+15     kenjanomago       Thu  23:30
+211    kenjanomago       Thu  23:30
+15     show_by_rock      Thu  24:00
 211    karakuri_circus   Thu  24:00
-15     girly_air_force   Thu  24:30
-211    doukyonin         Thu  24:30
-21     neverland         Thu  24:55
-211    girly_air_force   Thu  25:00
-22     gotoubun          Thu  25:28
-22     grimm_notes       Thu  25:58
+181    yu-no             Thu  24:00
+211    senkosan          Thu  24:30
+21     sarazanmai        Thu  24:55
+22     keion             Thu  25:28
+22     bakumatsu_2nd     Thu  25:58
  
 ## Fri
-15     hinomaruzumou     Fri  22:00
-15     boogiepop         Fri  22:30
-211    boogiepop         Fri  23:00
-211    hinomaruzumou     Fri  23:30
-211    b-project_2nd     Fri  24:00
-15     toaru_3rd         Fri  24:30
-211    toaru_3rd         Fri  24:30
+15     straydogs_3rd     Fri  22:30
+211    straydogs_3rd     Fri  23:00
+15     zombieland        Fri  24:30
+211    konosuba_2nd      Fri  25:00
 15     jojo_5th          Fri  25:05
+23     fruitsbasket      Fri  25:23
 211    jojo_5th          Fri  25:30
-15     okoshiyasu        Fri  25:35 00:05:00
-15     date_a_live_3rd   Fri  25:40
-22     domestic          Fri  25:55
-22     tokushusen_asuka  Fri  26:25
+22     senryu_shoujo     Fri  25:55 00:15:00
+22     midarana          Fri  26:10 00:15:00
+22     hitoribocchino    Fri  26:25
 
 ## Sat
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-15     bermuda_triangle  Sat  22:00
-15     kaguyasama        Sat  23:30
-211    kaguyasama        Sat  23:30
-15     sao_3rd           Sat  24:00
-211    sao_3rd           Sat  24:00
-211    haihuri           Sat  24:30
-15     endoro            Sat  25:00
-211    endoro            Sat  25:00
-161    domestic          Sat  25:00
-161    tokushusen_asuka  Sat  25:30
-161    gotoubun          Sat  26:00
-161    grimm_notes       Sat  26:30
+15     kimetsu           Sat  23:30
+211    kimetsu           Sat  23:30
+15     zokuowarimonogatari Sat  24:00
+211    zokuowarimonogatari Sat  24:00
+15     bokuben           Sat  24:30
+211    bokuben           Sat  24:30
+15     konoototomare     Sat  25:00
+211    konoototomare     Sat  25:00
+161    senryu            Sat  25:00 00:15:00
+161    midarana          Sat  25:15 00:15:00
+161    hitoribocchino    Sat  25:30
+161    keion             Sat  26:00
+161    bakumatsu_2nd     Sat  26:30
