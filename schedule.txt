@@ -4,84 +4,105 @@
 24     ryusouja          Sun  09:30
 15     shinkarion        Sun  10:30
 25     dash              Sun  18:59  00:59:30
-15     restage           Sun  22:00
+15     tokunana          Sun  22:00
 15     ansanburu         Sun  22:30
-15     takagisan_2nd     Sun  23:30
-211    business_fish     Sun  24:00
+211    tenkahyakken      Sun  22:54 00:06:00
+15     rifle_is_beautiful Sun 23:00
+15     actors            Sun  23:30
+141    actors            Sun  23:30
+15     faily_gone_2nd    Sun  24:00
+211    faily_gone_2nd    Sun  24:00
+141    evangelion        Sun  24:00
 20     vinland_saga      Sun  24:10 00:26:00
-15     nakanohitogenomu  Sun  24:30
-211    nakanohitogenomu  Sun  24:30
-15     grizaria-pt       Sun  25:00
-23     bem               Sun  25:35
+15     africa-man        Sun  24:30
+211    africa-man        Sun  24:30
+15     xl-joushi         Sun  25:00 00:05:00
+211    no_guns_life      Sun  25:00
  
 ## Mon
-15     kochouki          Mon  22:30
-15     katsukami         Mon  23:00
-211    katsukami         Mon  23:00
-211    sutamyu           Mon  23:30
-15     copcraft          Mon  24:00
-211    copcraft          Mon  24:00
-15     arihureta         Mon  24:30
-211    arihureta         Mon  25:00
+15     aninitsukeru_3rd  Mon  21:54 00:06:00
+15     babylon           Mon  22:00
+15     pso2_oracle       Mon  22:30
+211    standmyheroes     Mon  23:00
+15     heikinchi         Mon  24:00
+211    babylon           Mon  24:00
+181    tokunana          Mon  24:00
+211    heikinchi         Mon  25:00
 
 ## Tue
 15     g_gundam          Tue  22:29
-15     tejinasenpai      Tue  23:00 00:15:00
-15     sounandesuka      Tue  23:15 00:15:00
-141    takagisan_2nd     Tue  23:30
-141    tejinasenpai      Tue  24:00 00:15:00
-141    sounandesuka      Tue  24:15 00:15:00
-15     kawaikereba       Tue  24:30
-211    princessprincipal Tue  24:30
-25     tryknights        Tue  25:29
+15     zx_code_reunion   Tue  23:00
+181    chojinkoukousei   Tue  24:00
+211    haihuri           Tue  24:30
+15     taeko_no_nichijo  Tue  25:00 00:05:00
+211    rifle_is_beautiful Tue 25:00
+25     chihayahuru_3rd   Tue  25:29
+141    girls_und_panzer  Tue  25:30
  
 ## Wed
-15     yu-no             Wed  22:00
-15     danberu           Wed  23:30
-15     maousama_retry    Wed  24:00
-21     carole_tuesday    Wed  24:55
-15     astra             Wed  25:05
-211    astra             Wed  25:30
-15     isekai_cheat      Wed  25:35
+15     urashima          Wed  21:54 00:06:00
+15     honzuki_no_gekoujo Wed  22:00
+15     shincho           Wed  23:30
+15     gekidan_sphere    Wed 24:00
+211    kandagawa_jet_girls Wed 24:00
+181    beastars          Wed  24:00
+211    dakekayo          Wed  24:30
+21     beastars          Wed  24:55
+211    haruhi            Wed  25:00
+15     kemonomichi       Wed  25:05
+211    kemonomichi       Wed  25:30
+15     made_in_abyss     Wed  25:35
  
 ## Thu
 15     shirobako         Thu  22:00
-211    anohana           Thu  23:00
-15     uchinomusume      Thu  23:30
-211    uchinomusume      Thu  23:30
-181    yu-no             Thu  24:00
-211    damberu           Thu  24:30
-21     given             Thu  24:55
-22     machikadomazoku   Thu  25:28
+15     chojinkoukousei   Thu  22:30
+211    shincho           Thu  23:00
+15     azur_lane         Thu  23:30
+211    azur_lane         Thu  23:30
+15     assassins_pride   Thu  24:00
+211    yurukyan          Thu  24:00
+181    honzuki_no_gekoujo Thu  24:00
+15     saikoro           Thu  24:30
+211    saikoro           Thu  24:30
+141    assassins_pride   Thu  25:00
+21     psychopass_3rd    Thu  24:55 1:00:00
+22     no_guns_life      Thu  25:28
+22     hoshiai_no_sora   Thu  25:58
+6      might_gaine       Fri  18:15
  
 ## Fri
 15     dr_stone          Fri  22:00
-15     jk_mudadukai      Fri  22:30
-211    jk_mudadukai      Fri  23:00
+15     chubyogekihatsu   Fri  22:30
+211    chubyogekihatsu   Fri  23:00
 211    dr_stone          Fri  23:30
-15     zentai_nikai      Fri  24:00
-211    zentai_nikai      Fri  24:00
-15     danmachi_2nd      Fri  24:30
-211    danmachi_2nd      Fri  24:30
-15     toaru_ippou       Fri  25:05
-23     fruitsbasket      Fri  25:23
+15     granblue_2nd      Fri  24:00
+211    granblue_2nd      Fri  24:00
+15     shokugeki_4th     Fri  24:30
+211    shokugeki_4th     Fri  24:30
+23     kodoku_8th        Fri  24:12 00:40:00
+15     doruhuro          Fri  25:00 00:05:00
+211    made_in_abyss     Fri  25:00
+15     highscoregirl_2nd Fri  25:05
+211    highscoregirl_2nd Fri  25:30
 22     en_en             Fri  25:25
-211    toaru_ippou       Fri  25:30
-22     guranberumu       Fri  25:55
-22     araburukisetsuno  Fri  26:25
+22     kabukicho_sherlock Fri  25:55
+22     shin_chukaichiban Fri  26:25
 
 ## Sat
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-15     grizaria-pt       Sat  22:30
-16     turn_a_gundam     Sat  23:30
-15     kimetsu           Sat  23:30
-211    kimetsu           Sat  23:30
-15     load_elmelloi     Sat  24:00
-211    load_elmelloi     Sat  24:00
-211    madoka_magika     Sat  24:30
-15     symphogere_xv     Sat  25:00
-211    symphogere_xv     Sat  25:00
-161    guranberumu       Sat  25:00
-161    araburukisetsuno  Sat  25:30
-161    machikadomazoku   Sat  26:00
+211    doruhuro          Sat  20:55 00:05:00
+15     lovelive          Sat  22:30
+15     fgo               Sat  23:30
+211    fgo               Sat  23:30
+15     sao_3rd_2         Sat  24:00
+211    sao_3rd_2         Sat  24:00
+15     bokuben_2nd       Sat  24:30
+211    bokuben_2nd       Sat  24:30
+15     konoototomare_2nd Sat  25:00
+211    konoototomare_2nd Sat  25:00
+161    kabukicho_sherlock Sat 25:00
+15     val_love          Sat  25:30
+211    val_love          Sat  25:30
+161    shin_chukaichiban Sat  25:30
+161    hoshiai_no_sora   Sat  26:00
