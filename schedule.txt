@@ -3,111 +3,99 @@
 24     zero_one          Sun  09:00
 24     kirameija         Sun  09:30
 15     shinkarion        Sun  10:30
+23     mewkle_dreamy     Sun  10:30
 25     dash              Sun  18:59  00:59:30
-15     gargantia         Sun  23:00
-141    evangelion        Sun  24:00
-15     dorohedoro        Sun  24:00
-211    dorohedoro        Sun  24:00
-20     eizouken          Sun  24:10 00:26:00
-15     id_invaded        Sun  24:30
-211    id_invaded        Sun  24:30
-15     o-ba-furo-        Sun  25:00 00:05:00
+15     tugu_tugumomo     Sun  22:00
+#15     idolish7_2nd      Sun  22:30
+15     ultraman          Sun  23:00
+15     gleipnir          Sun  23:30
+211    gleipnir          Sun  23:30
+#20     kingdom_3rd       Sun  24:15 00:26:00
+20     miraishonen_conan Sun  24:10 00:31:00
+15     shacho_battle     Sun  24:30
+15     orenoyubi         Sun  25:00 00:05:00
+23     watanukisanchito  Sun  25:35
  
 ## Mon
-15     heyakyan          Mon  21:54 00:06:00
-211    heyakyan          Mon  21:54 00:06:00
-15     pet               Mon  22:00
-15     pso2_oracle       Mon  22:30
-211    pet               Mon  23:00
-#211    a3                Mon  24:00
-181    ankokuhakaishin   Mon  24:00
-141    somali            Mon  24:00
-15     seton_gakuen      Mon  24:30
-211    seton_gakuen      Mon  24:30
-15     yatogame_2nd      Mon  25:00 00:05:00
-211    arp               Mon  25:00
-15     natsunagu         Mon  25:35 00:05:00
+15     shironeko_project Mon  22:30
+19     gineiden          Mon  22:50 00:26:00
+15     takuboku          Mon  23:00
+211    shironeko_project Mon  23:00
+141    haikyu_4th        Mon  23:30
+211    a3                Mon  24:00
+181    takuboku          Mon  24:00
+141    shacho_battle     Mon  24:00
+15     princess_connect  Mon  24:30
+211    princess_connect  Mon  24:30
+181    arte              Mon  24:30
+15     jashinchan_2nd    Mon  25:15
+23     fruitsbasket      Mon  25:30
 
 ## Tue
 15     rerize            Tue  22:29
-15     7seeds            Tue  23:00
-211    seiyu_dorama      Tue  23:30
-181    7seeds            Tue  24:00
-141    kyokousuiri       Tue  24:00
-15     isekai_quartet_2nd Tue  24:30 00:15:00
-211    gargantia         Tue  24:30
-181    orphen            Tue  24:30
-15     taeko_no_nichijo  Tue  25:00 00:05:00
+#211    idlish7_2nd       Tue  24:00
+181    tugu_tugumomo     Tue  24:00
+#15     hokago_teibounisshi Tue  24:30
+15     dougakoubou_matsuri Tue  24:30
+211    ultraman          Tue  24:30
+181    jashinchan_2nd    Tue  24:30
 211    hyouka            Tue  25:00
-25     chihayahuru_3rd   Tue  25:29
 141    kenganashura      Tue  25:30
-15     dodesho_2019      Wed  20:27
+15     mugenno_junin     Tue  25:35
  
 ## Wed
-15     orphen            Wed  22:00
-15     number24          Wed  22:30
-15     rezero            Wed  23:30 01:00:00
-211    isekai_quartet_2nd Wed 24:00 00:15:00
-181    dragons           Wed  24:00
-211    kaguyasama        Wed  24:30
-21     dragons           Wed  24:55
-211    rezero            Wed  25:00 01:00:00
+15     honzuki_no_gekoujo_2nd Wed  22:00
+#211    hokago_teibounisshi Wed 24:00
+211    dougakoubou_matsuri Wed 24:00
+15     violet_evergarden Wed  24:00
+181    bna               Wed  24:00
+211    tower_of_god      Wed  24:30
+23     nekomurasan       Wed  24:52 00:06:00
+21     bna               Wed  24:55
 15     plunderer         Wed  25:05
-15     kyokuhuri         Wed  25:35
+15     shincho           Wed  25:35
  
 ## Thu
-15     nekopara          Thu  22:00
-15     mashumairesshu    Thu  22:30
+15     hachinan          Thu  22:30
 211    plunderer         Thu  23:00
-15     infinite_dendrogram Thu  23:30
-211    infinite_dendrogram Thu  23:30
-141    hatena_illusion   Thu  23:30
-15     nazokantei        Thu  24:00
-211    nazokantei        Thu  24:00
-181    mashumairesshu    Thu  24:00
-15     somali            Thu  24:30
-211    nekopara          Thu  24:30
-23     yurukyan_real     Thu  25:00
-21     uchinotama        Thu  24:55
-22     oshigabudoukan    Thu  25:28
-22     hanakokun         Thu  25:58
+15     tamayomi          Thu  23:30
+141    kakushigoto       Thu  23:30
+15     kakushigoto       Thu  24:00
+211    violet_evergarden Thu  24:00
+181    honzuki_no_gekoujo_2nd Thu  24:00
+211    hachinan          Thu  24:30
+#21     hugoukeiji        Thu  24:55
 6      might_gaine       Fri  18:15
 
  
 ## Fri
-15     koisuru_asteroid  Fri  22:30
-211    koisuru_asteroid  Fri  23:00
-211    azur_lane         Fri  23:30
-15     darwins_game      Fri  24:00
-211    darwins_game      Fri  24:00
-15     rikei             Fri  24:30
-211    rikei             Fri  24:30
-15     doruhuro          Fri  25:00 00:05:00
-211    kyokuhuri         Fri  25:00
+#15     shin_sakurataisen Fri  22:00
+#15     appare            Fri  22:30
+#211    appare            Fri  23:00
+211    shin_sakurataisen Fri  23:30
+151    sing_yesterday_for_me Fri  23:30
+#15     shokugeki_5th     Fri  24:30
+#211    shokugeki_5th     Fri  24:30
+211    shincho           Fri  25:00
 15     toaru_t           Fri  25:05
-23     oda_shinamon      Fri  25:23
-22     haikyu_4th        Fri  25:25
+23     bungou            Fri  25:23
+22     argonavis         Fri  25:25
 15     kenganashura      Fri  25:35
-22     kabukicho_sherlock Fri  25:55
-15     hatena_illusion   Fri  26:05
-22     runway            Fri  26:25
+22     listeners         Fri  25:55
+22     namiyo_kiitekure  Fri  26:25
+161    listeners         Fri  26:30
+161    namiyo_kiitekure  Fri  27:00
 
 ## Sat
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-211    doruhuro          Sat  20:55 00:05:00
-15     lovelive          Sat  22:30
-15     22_7              Sat  23:00
-211    22_7              Sat  23:00
-15     fgo               Sat  23:30
-211    fgo               Sat  23:30
-15     hentatsu          Sat  23:57 0:04:00
-211    hentatsu          Sat  23:57 0:04:00
-15     magia_record      Sat  24:00
-211    magia_record      Sat  24:00
-161    kabukicho_sherlock Sat 25:00
-211    ishuzoku_reviewers Sat  25:30
-24     kyokousuiri       Sat  25:30
-161    runway            Sat  25:30
-161    oshigabudoukan    Sat  26:00
-161    hanakokun         Sat  26:30
+15     arte              Sat  22:00
+15     kaguyasama_2nd    Sat  23:30
+211    kaguyasama_2nd    Sat  23:30
+#15     sao_3rd_3         Sat  24:00
+#211    sao_3rd_3         Sat  24:00
+#15     gyaru_to_kyoryu   Sat  25:00
+#211    gyaru_to_kyoryu   Sat  25:00
+15     otome_game        Sat  25:30
+211    otome_game        Sat  25:30
+24     sing_yesterday_for_me Sat  25:30
