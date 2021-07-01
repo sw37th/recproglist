@@ -4,125 +4,94 @@
 24     zenkaija         Sun  09:30
 23     mewkle_dreamy     Sun  10:30
 25     dash              Sun  18:59  00:59:30
-211    yatogame_3rd      Sun  21:55  00:05:00
-15     kemonojihen       Sun  22:00
-15     skate_leading_stars Sun  22:30
-15     idly_pride        Sun  23:30
-141    idly_pride        Sun  23:30
-15     mushokutensei     Sun  24:00
-211    mushokutensei     Sun  24:00
-20     shingeki_4th      Sun  24:10  00:26:00
-15     sorayorimo        Sun  24:30
-211    lovelive_nijigasaki Sun 24:30
-#15     jimihen           Sun  25:00 00:05:00
-15     ex_arm            Sun  25:05
-181    gekidoru          Sun  25:30
-23     nonnonbiyori_3rd  Sun  25:35
+15     ieokau            Sun  22:00
+15     moriarty_2nd      Sun  22:30
+15     megarobokusu_2nd  Sun  23:00
+15     cramer            Sun  23:30
+141    cramer            Sun  23:30
+15     sevenknights      Sun  24:00
+211    sevenknights      Sun  24:00
+20     kingdom_3rd       Sun  24:10  00:26:00
+15     sentouin_haken    Sun  24:30
+23     tokyo_revengers   Sun  25:35
  
 ## Mon
-15     7seeds_2nd        Mon  22:30
-19     shirobako         Mon  22:50
-15     tatoeba           Mon  23:00
-211    tatoeba           Mon  23:00
-211    ssss_gridman      Mon  23:30
-15     umamusume_2nd     Mon  24:00
-211    umamusume_2nd     Mon  24:00
-15     urasekai_pique_nique Mon 24:30
-211    urasekai_pique_nique Mon 24:30
-171    nonnonbiyori_3rd  Mon  24:30
-15     azur_lane_bisokuzenshin Mon 25:00 00:10:00
-211    azur_lane_bisokuzenshin Mon 25:00 00:10:00
-15     shin_chukaichiban_2nd Mon 25:10
-23     osomatsusan_3rd   Mon  25:30
-23     wave              Mon  26:00
-23     morucar           Tue  7:30 00:05:00
+15     yakunara          Mon  22:30
+19     humetsunoanatahe  Mon  22:50
+15     koitoyobuniha     Mon  23:00
+211    yakunara          Mon  23:00
+15     higewosoru        Mon  24:00
+211    higewosoru        Mon  24:00
+141    sentouin_haken    Mon  24:00
+23     fruitsbasket      Mon  25:30
+23     odd_taxi          Mon  26:00
 
 ## Tue
-15     slime_2nd         Tue  23:00
-211    slime_2nd         Tue  23:30
-211    skate_leading_stars Tue 24:00
-15     bungou_one        Tue  24:30 00:15:00
-15     world_witches_2nd Tue  24:45 00:15:00
-211    kemonojihen       Tue  24:30
-#15     nozoxkimi         Tue  25:05
-25     wonderegg         Tue  25:29
-19     log_horizon_3rd   Wed  19:25 00:26:00
+15     slime_nikki       Tue  23:00
+211    slime_nikki       Tue  23:30
+15     seijonomaryokuha  Tue  24:30
+181    daiundoukai_restart Tue 24:30
+25     jouran            Tue  25:29
  
 ## Wed
-15     orphen_2nd        Wed  22:00
-15     aichuu            Wed  23:00
-15     rezero_2nd        Wed  23:30 00:31:00
+15     mars_red          Wed  22:00
+15     hurudaibu         Wed  23:30
 211    seizeiganbare_3rd Wed  23:54 00:06:00
-181    beastars_2nd      Wed  24:00
-211    bungou_one        Wed  24:00 00:15:00
-211    world_witches_2nd Wed  24:15 00:15:00
-211    hortensia_saga    Wed  24:30
-181    neverland_2nd     Wed  24:30
-21     beastars_2nd      Wed  24:55
-211    rezero_2nd        Wed  25:00 00:31:00
-141    wonderegg         Wed  25:00
-15     kaihukujutsushi   Wed  25:05
-211    soukoumusume      Wed  25:30
+15     maidragon         Wed  24:00
+211    seijonomaryokuha  Wed  24:00
+141    jouran            Wed  24:00
+181    mars_red          Wed  24:30
+21     cestvs            Wed  24:55
+211    hurudaibu         Wed  25:00
+15     zettainimakenai   Wed  25:05
+15     super_cub         Wed  25:35
  
 ## Thu
-15     show_by_rock_stars Thu  22:00
-15     dr_stone_2nd      Thu  22:30
-211    yorimoi           Thu  22:30
-211    kinnmoza          Thu  23:00
-15     yurukyan_2nd      Thu  23:30
-211    yurukyan_2nd      Thu  23:30
-15     tenchisouzou      Thu  24:00
-211    dr_stone_2nd      Thu  24:00
-15     shin_higurashi    Thu  24:30
-211    shin_higurashi    Thu  24:30
-181    orphen_2nd        Thu  24:30
-21     seiinkoukou       Thu  24:55
-211    imas              Thu  25:00
-181    show_by_rock_stars Thu  25:05
-21     neverland_2nd     Thu  25:25
-22     gotoubun_2nd      Thu  25:28
+15     godzilla_sp       Thu  22:30
+211    godzilla_sp       Thu  22:30
+211    zettainimakenai   Thu  23:00
+15     fairy_ranmaru     Thu  23:30
+141    fairy_ranmaru     Thu  23:30
+15     zombieland_2nd    Thu  24:00
+211    maidragon         Thu  24:00
+211    zombieland_2nd    Thu  24:30
+23     yurukyan_real_2nd Thu  24:30
+171    mankin            Thu  24:30
+21     bakuten           Thu  24:55
+211    imas_sg           Thu  25:00
+22     doreimajutsu_2nd  Thu  25:28
+23     shinkarion_z      Fri  19:25
  
 ## Fri
-15     jakukyara         Fri  22:00
+15     dynazenon         Fri  22:00
 15     kumodesuga        Fri  22:30
 211    kumodesuga        Fri  23:00
-#15     d4dj              Fri  23:00
-#141    d4dj              Fri  23:00
-211    gotoubun_2nd      Fri  23:30
-6      level_e           Fri  23:30
+211    dynazenon         Fri  23:30
+151    hamehura          Fri  23:30
 15     back_arrow        Fri  24:00
 211    back_arrow        Fri  24:00
-15     wixoss_diva_a_live Fri  24:30
-211    wixoss_diva_a_live Fri  24:30
-15     otonanobouguyasan_2nd Fri 25:00 00:05:00
-211    kaihukujutsushi   Fri  25:00
-23     kings_raid        Fri  25:23
-22     jujutsu_kaisen    Fri  25:25
-211    imas              Fri  25:30
-15     imas              Fri  25:35 01:00:00
-22     praeter           Fri  25:55
-222    gundam_08         Fri  26:00 00:31:00
-22     oredakehaireru    Fri  26:25
-161    praeter           Fri  26:30
-161    oredakehaireru    Fri  27:00
+211    super_cub         Fri  25:00
+23     kabadi            Fri  25:23
+22     subarasikikonosekai Fri  25:25
+22     yuyuyu_churutto   Fri  25:50 00:05:00
+22     bluereflectionray Fri  25:55
+222    gundam_0083       Fri  26:00 01:01:00
+22     mashironooto      Fri  26:25
 23     dai               Sat  09:30
 
 ## Sat
 23     the_fishing       Sat  17:30
-25     yoruyasha         Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-211    jakukyara         Sat  22:00
-15     lovelive_nijigasaki Sat  22:30
-15     hatarakusaibou_2nd Sat  23:30
-211    hatarakusaibou_2nd Sat  23:30
-15     hatarakusaibou_black Sat  24:00
-211    hatarakusaibou_black Sat  24:00
-15     horimiya          Sat  24:30
-211    horimiya          Sat  24:30
-141    steins_gate       Sat  24:30
-15     levius            Sat  25:00
-211    levius            Sat  25:00
-24     world_trigger_2nd Sat  25:30
-15     kaibyoui          Sat  25:30
-211    kaibyoui          Sat  25:30
-24     sk8               Sat  26:00
+15     slime_300         Sat  22:00
+211    slime_300         Sat  22:00
+15     vivy              Sat  23:30
+211    vivy              Sat  23:30
+15     86                Sat  24:00
+211    86                Sat  24:00
+15     shadowhouse       Sat  24:30
+211    shadowhouse       Sat  24:30
+15     nagatorosan       Sat  25:00
+211    nagatorosan       Sat  25:00
+24     daiundoukai_restart Sat  25:30
+24     bishounentanteidan Sat  26:00
+161     doreimajutsu_2nd Sat 26:00
