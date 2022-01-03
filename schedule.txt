@@ -3,95 +3,104 @@
 24     revice            Sun  09:00
 24     zenkaija          Sun  09:30
 23     mewkle_dreamy     Sun  10:30
-25     dash              Sun  18:59  00:59:30
+25     dash              Sun  18:59 00:59:30
 19     lovelive_ss       Sun  19:00
-15     kuromeido         Sun  22:00
-15     idolish7_3rd      Sun  22:30
-15     getter_robo_arc   Sun  23:00
-211    kuromeido         Sun  23:30
-211    mushokutensei     Sun  24:00
-20     kingdom_3rd       Sun  24:05  00:26:00
-15     tanteihamou       Sun  24:30
-23     tokyo_revengers   Sun  25:35
+15     sankakumado       Sun  22:00
+15     tesla_note        Sun  23:00
+151    blue_period       Sun  23:00
+21     kimetsu_yukaku    Sun  23:15
+15     muteking          Sun  23:30
+141    muteking          Sun  23:30
+15     mushokutensei_2nd Sun  24:00
+211    mushokutensei_2nd Sun  24:00
+20     kingdom_3rd       Sun  24:05 00:26:00
+15     mierukochan       Sun  24:30
+211    showtime          Sun  25:00 00:05:00
+23     tsuki_to_laika_to Sun  25:35
+15     kimetsu           Mon  19:00
  
 ## Mon
-20     komisan_real      Mon  22:45  00:31:00
-211    free_3rd          Mon  23:00
-15     5byou             Mon  24:00
-211    5byou             Mon  24:00
-141    tanteihamou       Mon  24:00
-15     gokushufudo       Mon  24:30
-211    gokushufudo       Mon  25:00
-23     uramichi          Mon  25:30
-23     seireigensouki    Mon  26:00
+15     yakunara_2nd      Mon  22:30
+20     komisan_real      Mon  22:45 00:31:00
+211    yakunara_2nd      Mon  23:00
+141    tsuki_to_laika_to Mon  23:00
+211    sugushinu         Mon  23:30
+141    rupansansei_part6 Mon  23:30
+15     denchishoujo      Mon  24:00
+211    denchishoujo      Mon  24:00
+141    mierukochan       Mon  24:00
+15     kaizokuoujo       Mon  24:30
+23     kyoukaisenki      Mon  25:30
+23     shinkanomi        Mon  26:00
+23     gsframe           Tue  19:00
 
 ## Tue
-15     slime_3rd         Tue  23:00
-211    slime_3rd         Tue  23:30
-141    meikyu_black      Tue  24:00
-211    getter_robo_arc   Tue  24:30
-181    seireigensouki    Tue  24:30
-211    uramichi          Tue  25:00
+15     gundam_build_real Tue  22:29 00:31:00
+211    princess_connect  Tue  23:30
+171    takt              Tue  24:00
+15     deep_insanity     Tue  24:30
+15     kaginado          Tue  25:00 00:05:00
+211    deep_insanity     Tue  25:00
+25     shikizakura       Tue  25:29
  
 ## Wed
-15     cheat_yakushi     Wed  22:00
-15     tsukipuro         Wed  22:30
-15     tsukigamichibiku  Wed  23:00
-211    seizeiganbare_3rd Wed  23:54 00:06:00
-15     maidragon_2nd     Wed  24:00
-181    night_head_2041   Wed  24:00
-21     night_head_2041   Wed  24:55
-211    kinmoza_2nd       Wed  25:00
-15     megamiryo         Wed  25:05
-15     nogame_nolife     Wed  25:35
+15     puraore           Wed  23:00
+15     shimashita        Wed  23:30
+141    shimashita        Wed  23:30
+23     komisan           Wed  24:00
+181    maburabu_oruta    Wed  24:00
+141    puraore           Wed  24:00
+21     maburabu_oruta    Wed  24:55
+15     sekaisaikouno     Wed  25:05
+15     yorimoi           Wed  25:35
  
 ## Thu
-15     peach_boy_riverside Thu 22:00
 211    scarlet_nexus     Thu  22:30
-211    hokago_teibounisshi Thu  23:00
-15     shin_higurashi_2nd Thu 23:30
-211    shin_higurashi_2nd Thu 23:30
+15     sakugan           Thu  23:30
+211    sakugan           Thu  23:30
 15     aquatope          Thu  24:00
-211    maidragon_2nd     Thu  24:00
-15     sonnyboy          Thu  24:30
+211    yurukyan          Thu  24:30
 181    aquatope          Thu  24:30
 171    mankin            Thu  24:30
-211    megamiryo         Thu  24:30
-21     heionsedai        Thu  24:55
-211    imas_sg           Thu  25:00
-22     machikadomazoku   Thu  25:28
+21     ousama_ranking    Thu  24:55
+22     platinum_end      Thu  25:28
+222    rupansansei_part1 Thu  26:00
 23     shinkarion_z      Fri  19:25
  
 ## Fri
-15     meikyu_black      Fri  22:30
-151    hamehura_2nd      Fri  23:30
-15     vanitas           Fri  24:00
-211    vanitas           Fri  24:00
-23     kodoku_9th        Fri  24:12 00:41:00
-15     hyakuman_2nd      Fri  24:30
-211    hyakuman_2nd      Fri  24:30
-211    nogame_nolife     Fri  25:00
-15     buradorabu        Fri  25:05
-22     hamehura_2nd      Fri  25:25
-22     bluereflectionray Fri  25:55
-222    galient_ova       Fri  26:00 01:01:00
-22     kanojomokanojo    Fri  26:25
-161    kanojomokanojo    Fri  27:00
+15     fit_boxing        Fri  21:54
+15     selection_project Fri  22:30
+211    selection_project Fri  23:00
+151    kaizokuoujo       Fri  23:00
+211    platinum_end      Fri  23:30
+211    visual_prison     Fri  24:00
+211    shumatsu_valkyrie Fri  24:30
+181    megatonkyu        Fri  24:30
+15     iburogia          Fri  25:00 00:05:00
+23     isekaishokudo_2nd Fri  25:23
+22     blue_period       Fri  25:25
+23     taisho_otome      Fri  25:53
+22     yuyuyu_3rd        Fri  25:55
+222    gundam_0083       Fri  26:00 01:01:00
+161    yuyuyu_3rd        Fri  26:30
+19     makanaisan        Sat  09:20 00:10:00
 23     dai               Sat  09:30
 
 ## Sat
 23     the_fishing       Sat  17:30
+25     yashahime_2nd     Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
-15     remake            Sat  22:00
-15     d_cide_traumerei  Sat  22:30
-15     yuutousei         Sat  23:30
-211    yuutousei         Sat  23:30
-15     magia_record_2nd  Sat  24:00
-211    magia_record_2nd  Sat  24:00
-141    remake            Sat  24:00
-15     kagekishoujo      Sat  25:00
-211    kagekishoujo      Sat  25:00
-15     genjitsushugiyusha Sat 25:30
-211    genjitsushugiyusha Sat 25:30
-24     re-main           Sat  25:30
+15     saihate_paladin   Sat  22:00
+211    taisho_otome      Sat  22:00
+211    kimetsu_yukaku    Sat  23:30
+15     86_2nd            Sat  24:00
+211    86_2nd            Sat  24:00
+141    saihate_paladin   Sat  24:00
+15     build_divide      Sat  24:30
+211    build_divide      Sat  24:30
+25     rupansansei_part6 Sat  24:55
+15     senpaigauzai      Sat  25:00
+211    senpaigauzai      Sat  25:00
+15     poputepipikku     Sat  25:30
+211    poputepipikku     Sat  25:30
 24     jahi              Sat  26:00
