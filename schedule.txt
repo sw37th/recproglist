@@ -1,106 +1,99 @@
 ## Sun
 25     dash              Sun  18:59 00:59:30
-19     planetes          Sun  19:00
+19     lovelive_ss_2nd   Sun  19:00
 20     kamakuradono      Sun  20:00 01:00:00
-211    yatogame_4th      Sun  21:55 00:05:00
-15     mendokusai        Sun  22:00
-15     baraou            Sun  22:30
-15     black_rock_shooter_2nd Sun 23:00
-211    black_rock_shooter_2nd Sun 23:30
-211    reimeiki          Sun  24:00
-15     mobunikibishii    Sun  24:30
-211    mendokusai        Sun  24:30
-171    spyxfamily        Sun  24:35
-15     soresunawachi     Sun  25:05
+15     shoot             Sun  22:00
+15     rwby_2nd          Sun  22:30
+15     you0deco          Sun  23:00
+211    rwby_2nd          Sun  23:30
+151    shadowhouse_2nd   Sun  23:30
+141    kuronoshoukanshi  Sun  23:30
+15     isekaiyakkyoku    Sun  24:00
+15     luminous_witches  Sun  24:30
+211    hoshinosamidare   Sun  24:30
 15     yamanosusume_mx   Mon  18:59 00:31:00
  
 ## Mon
-15     gokushufudo_2nd   Mon  22:00
-15     healer_girl       Mon  23:00
-211    healer_girl       Mon  23:00
-211    hatarakumaousama  Mon  23:30
-23     kyoukaisenki_2nd  Mon  24:00
-211    moretsu           Mon  25:00
+15     fuutotantei       Mon  22:00
+15     jitsuryoku_2nd    Mon  22:30
+15     tenseikenja       Mon  24:00
+141    isekaiyakkyoku    Mon  24:00
+23     orient_2nd        Mon  25:30
 
 ## Tue
 15     gundam_the_origin Tue  22:29 00:31:00
-15     paripi_komei      Tue  23:00
-23     birdie_wing       Tue  24:00
-141    paripi_komei      Tue  24:00
-15     yamemasu          Tue  24:30
-211    yamemasu          Tue  24:30
-15     kaginado_2nd      Tue  25:00 0:05:00
+15     vermeil           Tue  23:00
+23     tokyo_mew_mew_new Tue  24:00
+141    luminous_witches  Tue  24:00
+211    vermeil           Tue  24:00
+15     overlord_4th      Tue  24:30
+211    overlord_4th      Tue  24:30
+141    tenseikenja       Tue  24:30
+25     shinepost         Tue  25:29
+23     jashinchan_2nd    Tue  26:05
  
 ## Wed
-15     honzuki_no_gekoujo_3rd Wed 22:00
-15     rpg_hudousan      Wed  23:00
-15     murabito_a        Wed  23:30
-260    tamayura_hitotose Wed  23:30
-23     komisan_2nd       Wed  24:00
-141    murabito_a        Wed  24:00
-181    estab_life        Wed  24:00
-15     blend_s           Wed  24:30
-211    blend_s           Wed  24:30
-171    komisan_2nd       Wed  24:30
-181    honzuki_no_gekoujo_3rd Wed 24:30
-21     estab_life        Wed  24:55
-15     tatenoyushano_2nd Wed  25:05
-15     deaimon           Wed  25:35
+15     arsnotoria        Wed  23:00
+15     isekaiojisan      Wed  23:30
+260    tamayura_more_aggressive Wed  23:30
+15     tsurego           Wed  24:00
+141    arsnotoria        Wed  24:00
+141    jashinchan_2nd    Wed  24:30
+15     yoru_neko         Wed  25:00 00:05:00
+211    made_in_abyss_2nd Wed  25:00
+15     made_in_abyss_2nd Wed  25:05
+15     isekaimeikyu      Wed  25:35
  
 ## Thu
-15     youjoyuurei       Thu  22:00
-15     tarumono          Thu  22:30
-211    tatenoyushano_2nd Thu  23:00
-15     yurukyan_2nd      Thu  23:30
-211    yurukyan_2nd      Thu  23:30
+15     kumichoumusume    Thu  22:30
+211    isekaiojisan      Thu  23:00
+15     hatarakumaousama_2nd Thu 23:30
+211    hatarakumaousama_2nd Thu 23:30
 15     summer_time_render Thu 24:00
 211    summer_time_render Thu 24:00
-15     gaikotsukishisama Thu  24:30
-141    rpg_hudousan      Thu  24:30
-181    tarumono          Thu  24:30
-171    mankin            Thu  24:30
-211    gaikotsukishisama Thu  25:00
-22     machikadomazoku_2nd Thu 25:28
-22     reimeiki          Thu  25:58
-22     tekketsu_sp       Fri  19:30
+15     5okunen           Thu  24:30
+141    shinepost         Thu  24:30
+21     yofukashinouta    Thu  24:55
+22     yosetekuru        Thu  25:28
+23     chimimo           Thu  25:30
  
 ## Fri
-#15     noatode           Fri  22:30
 211    wataten           Fri  23:00
-#151    noatode           Fri  23:00
-211    machikadomazoku_2nd Fri 23:30
-#15     kaguyasama_3rd    Fri  24:00
-#211    kaguyasama_3rd    Fri  24:00
-#15     shokeishoujo      Fri  24:30
-#211    shokeishoujo      Fri  24:30
-#15     date_a_live_4th   Fri  25:00
-#211    date_a_live_4th   Fri  25:00
+151    chimimo           Fri  23:00
+211    bucchigire        Fri  23:30
+15     shadowhouse_2nd   Fri  24:00
+211    shadowhouse_2nd   Fri  24:00
+15     primadoll         Fri  24:30
+15     danmachi_4th      Fri  25:05
 22     kanojo_okarishimasu_2nd Fri 25:25
-#15     rikei_2nd         Fri  25:30
+211    danmachi_4th      Fri  25:30
 23     kamikuzu          Fri  25:53
-#22     cue               Fri  25:55
-222    shikimorisan      Fri  26:00
-#22     aharensan         Fri  26:25
+22     hoshinosamidare   Fri  25:55
+24     meidogaayashii    Fri  26:00
 161    kanojo_okarishimasu_2nd Fri 26:30
-#161    aharensan         Fri  27:00
 23     dai               Sat  09:30
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
 
 ## Sat
-#15     lovelive_nijigasaki_2nd Sat  22:00
+15     kuronoshoukanshi  Sat  22:00
 211    kamikuzu          Sat  22:00
 15     teppen            Sat  22:30
-23     spyxfamily        Sat  23:00
-15     gunjou            Sat  23:30
-211    gunjou            Sat  23:30
-15     munenouchi        Sat  24:00
-211    munenouchi        Sat  24:00
+15     lycoris_recoil    Sat  23:30
+211    lycoris_recoil    Sat  23:30
+6      musashino         Sat  23:30 00:05:00
+141    teppen            Sat  24:00
 20     kingdom_4th       Sat  24:00
-15     build_divide_2nd  Sat  24:30
-211    build_divide_2nd  Sat  24:30
+15     engage_kiss       Sat  24:30
+211    engage_kiss       Sat  24:30
+15     utaware_3rd       Sat  25:00
+211    utaware_3rd       Sat  25:00
+15     extreme_hearts    Sat  25:30
+211    extreme_hearts    Sat  25:30
 24     kakko             Sat  25:30
-24     shikimorisan      Sat  26:00
+24     meidogaayashii    Sat  26:00
+161    yosetekuru        Sat  26:00
+211    isekaimeikyu      Sat  27:00
 24     delicious_party_precure Sun  08:30
-24     revice            Sun  09:00
+24     geats             Sun  09:00
 24     donburazazu       Sun  09:30
