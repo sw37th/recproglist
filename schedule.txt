@@ -1,101 +1,111 @@
 ## Sun
 25     dash              Sun  18:59 00:59:30
 19     humetsunoanatahe_2nd Sun 19:00
-20     kamakuradono      Sun  20:00 01:00:00
-15     nekomimishoujo    Sun  22:00
+15     nokemonotachi     Sun  22:00
 15     idlish7_4th       Sun  22:30
-151    shippoganai       Sun  23:00
-211    arknights         Sun  23:30
-151    yonin_sorezore    Sun  23:30
-15     uzakichan_2nd     Sun  24:00
-15     huhuijo           Sun  24:30
-211    hoshinosamidare   Sun  24:30
-171    spyxfamily_2nd    Sun  24:35
-15     haremu_nyotai_kenja Sun 25:00
+260    gineiden_reiwa    Sun  23:00
+15     sennokiseki       Sun  23:30
+151    akebi             Sun  23:30
+15     hirowareta_2nd    Sun  24:00
+15     benriyasaitosan   Sun  24:30
+171    nouka             Sun  24:35
+15     kyokousuiri_2nd   Sun  25:05
+23     mouippon          Sun  25:35
  
 ## Mon
-15     tenpokeiei        Mon  22:30
-#15     goldenkamui_4th   Mon  23:00
-#211    goldenkamui_4th   Mon  23:00
-141    tenpokeiei        Mon  23:30
-211    uzakichan_2nd     Mon  24:00
-171    bleach_sennen     Mon  24:00
-15     hanzawa           Mon  25:05 00:10:00
+15     highcard          Mon  22:30
+211    sugushinu_2nd     Mon  23:00
+211    kotaro            Mon  23:30
+211    mononogatari      Mon  24:00
+23     tokyo_revengers_2nd Mon 24:00
+141    kyokousuiri_2nd   Mon  24:00
+15     vinland_saga_2nd  Mon  24:30
+211    vinland_saga_2nd  Mon  24:30
+211    ayakashi_triangle Mon  25:00
 23     cooldoji          Mon  25:30 00:15:00
+23     eiyuuou           Mon  25:45
 21     eikyushonen       Mon  26:20 00:15:00
 
 ## Tue
-15     shinobino         Tue  23:00
-260    nogame_nolife     Tue  23:30
-23     chainsaw_man      Tue  24:00
-211    huhuijo           Tue  24:00
-15     yamanosusume_4th  Tue  24:30
-211    yamanosusume_4th  Tue  24:30
+141    benriyasaitosan   Tue  23:30
+260    madan             Tue  23:30
+23     isekaihouroumeshi Tue  24:00
+211    ningenhushin      Tue  24:00
+141    ars               Tue  24:00
+15     kubosan           Tue  24:30
+211    kubosan           Tue  24:30
+211    bastard           Tue  25:00
  
 ## Wed
-15     humanbug          Wed  22:00
-15     vazzrock          Wed  22:30
-15     kendeshita        Wed  23:00
+15     orphen_3rd        Wed  22:00
+15     douryoujoshi      Wed  22:30
+15     straydogs_4th     Wed  23:00
 15     naritakute        Wed  23:30
-15     mobu_3rd          Wed  24:00
-23     diy               Wed  24:00
-181    maburabu_oruta_2nd Wed 24:00
-211    eromanga          Wed  24:30
-181    mobu_3rd          Wed  24:30
-21     maburabu_oruta_2nd Wed 24:55
-211    rennai_flops      Wed  25:00
-15     rennai_flops      Wed  25:05
-211    hutoku            Wed  25:30
-15     hutoku            Wed  25:35
+15     tsurune_2nd       Wed  24:00
+23     technoroid        Wed  24:00
+141    yamanosusume_4th  Wed  24:00
+181    kaina             Wed  24:00
+211    tomochan          Wed  24:30
+141    naritakute        Wed  24:30
+171    mouippon          Wed  24:30
+181    hirowareta_2nd    Wed  24:30
+15     mahoukakumei      Wed  25:00
+211    mahoukakumei      Wed  25:00
+21     kaina             Wed  24:55
+15     kyokuhuri_2nd     Wed  25:30
+211    kyokuhuri_2nd     Wed  25:30
  
 ## Thu
-211    diy               Thu  22:30
-15     mushikaburi       Thu  23:30
-15     akibameido        Thu  24:00
-211    akibameido        Thu  24:00
-15     kankore_reiwa     Thu  24:30
-211    kankore_reiwa     Thu  24:30
-141    mushikaburi       Thu  24:30
+15     revenger          Thu  22:30
+15     spykyoushitsu     Thu  23:30
+141    spykyoushitsu     Thu  23:30
+15     onimai            Thu  24:00
+211    tsurune_2nd       Thu  24:00
+211    onimai            Thu  24:30
+141    revenger          Thu  24:30
+171    eiyuuou           Thu  24:30
 21     uruseiyatsura_reiwa Thu 24:55
-211    isekaiojisan      Thu  25:00
+15     kankore_riwa      Thu  25:00
+22     hyouken           Thu  25:28
  
 ## Fri
+15     nijiyon           Fri  21:54 00:06:00
 15     megatonkyu_2nd    Fri  22:00
-15     shippoganai       Fri  22:30
-141    digicharat_reiwa  Fri  23:00
-151    kendeshita        Fri  23:00
-151    shinobino         Fri  23:30
-23     kodoku_10th       Fri  24:12 00:40:00
-15     jojo_7th          Fri  24:30
-211    jojo_7th          Fri  24:30
-23     arknights         Fri  25:23
-22     seikendensetsu    Fri  25:25
-15     isekaiojisan      Fri  25:35
-22     hoshinosamidare   Fri  25:55
-161    akuyaku_rasubosu  Fri  26:30
+15     sugarapple        Fri  22:30
+151    sugarapple        Fri  23:30
+211    buddy_daddies     Fri  24:00
+15     jojo_8th          Fri  24:30
+211    jojo_8th          Fri  24:30
+15     danmachi_4th_2nd  Fri  25:05
+23     shinshinkanomi    Fri  25:23
+22     ars               Fri  25:25
+211    danmachi_4th_2nd  Fri  25:30
+15     inu_dragon        Fri  25:35
+23     nouka             Fri  25:53
+22     lieselotte        Fri  25:55
+161    lieselotte        Fri  26:30
 23     morucar           Sat  07:00
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
 
 ## Sat
-15     nouminkanren      Sat  22:00
-15     akuyaku_rasubosu  Sat  22:30
-23     spyxfamily_2nd    Sat  23:00
-15     kokyu_no_tori     Sat  23:30
-211    kokyu_no_tori     Sat  23:30
-15     bocchi_the_rock   Sat  24:00
-211    bocchi_the_rock   Sat  24:00
+15     ankokuheishi      Sat  22:00
+211    ankokuheishi      Sat  22:00
+15     otonarino         Sat  22:30
+23     trigun_reiwa      Sat  23:00
+15     uniteup           Sat  23:30
+211    uniteup           Sat  23:30
+15     nier_automata     Sat  24:00
+211    nier_automata     Sat  24:00
+141    otonarino         Sat  24:00
 20     yowamushi_5th     Sat  24:00
-15     berserk_ogon      Sat  24:30
-211    berserk_ogon      Sat  24:30
-15     utaware_3rd       Sat  25:00
-211    utaware_3rd       Sat  25:00
-15     poputepipikku_2nd Sat  25:30
-211    poputepipikku_2nd Sat  25:30
+211    hutekigousha_2nd  Sat  24:30
+211    nagatorosan_2nd   Sat  25:00
+211    saikyouonmyouji   Sat  25:30
 24     blue_rock         Sat  25:30
-24     yonin_sorezore    Sat  26:00
+24     hachimanmai       Sat  26:00
 171    morucar           Sun  05:30 00:07:00
 24     delicious_party_precure Sun 08:30
 24     geats             Sun  09:00
 24     donburazazu       Sun  09:30
-22     gundam_suisei     Sun  17:00
+22     gundam_hathaway   Sun  17:00
