@@ -41,6 +41,7 @@
 15     douryoujoshi      Wed  22:30
 15     straydogs_4th     Wed  23:00
 15     naritakute        Wed  23:30
+260    grimgar           Wed  23:30 00:31:00
 15     tsurune_2nd       Wed  24:00
 23     technoroid        Wed  24:00
 141    yamanosusume_4th  Wed  24:00
@@ -84,7 +85,6 @@
 23     nouka             Fri  25:53
 22     lieselotte        Fri  25:55
 161    lieselotte        Fri  26:30
-23     morucar           Sat  07:00
 23     the_fishing       Sat  17:30
 20     buratamori        Sat  19:30 00:46:00
 
@@ -104,8 +104,7 @@
 211    saikyouonmyouji   Sat  25:30
 24     blue_rock         Sat  25:30
 24     hachimanmai       Sat  26:00
-171    morucar           Sun  05:30 00:07:00
-24     delicious_party_precure Sun 08:30
+24     hirogaru_sky_precure Sun 08:30
 24     geats             Sun  09:00
-24     donburazazu       Sun  09:30
+24     kinguoojaa        Sun  09:30
 22     gundam_hathaway   Sun  17:00
