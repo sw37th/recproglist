@@ -1,8 +1,6 @@
 ## Sun
-25     dash              Sun  18:59 00:59:30
 15     guiguikuru        Sun  22:00
 211    aobuta            Sun  22:30
-15     worlddaistar      Sun  23:00
 21     kimetsu_katanakaji Sun 23:15
 211    worlddaistar      Sun  23:30
 211    tenseikizoku      Sun  24:00
@@ -72,7 +70,6 @@
 211    mahoutsukainoyome_2nd Fri 23:00
 151    skip_to_loafer    Fri  23:00
 211    mushokutensei     Fri  23:30
-15     mashle            Fri  24:00
 211    mashle            Fri  24:00
 181    watayuri          Fri  24:30
 211    shumatsu_valkyrie_2nd Fri 24:30
@@ -97,19 +94,16 @@
 141    watayuri          Sat  23:00
 15     kimetsu_katanakaji Sat  23:30
 211    kimetsu_katanakaji Sat  23:30
-#15     nier_automata     Sat  24:00
-#211    nier_automata     Sat  24:00
 20     tiger_and_bunny_2nd Sat  24:00
-15     lv999             Sat  24:30
 211    lv999             Sat  24:30
 25     edens_zero_2nd    Sat  24:55
 151    bokuyaba          Sat  25:00
 24     bokuyaba          Sat  25:30
 15     otonariniginga    Sat  25:30
 211    otonariniginga    Sat  25:30
-24     nidomedesu        Sat  26:00
 24     hirogaru_sky_precure Sun 08:30
 24     geats             Sun  09:00
 24     kinguoojaa        Sun  09:30
 22     gundam_suisei_2nd Sun  17:00
 19     aonoorchestra     Sun  17:00
+25     dash              Sun  18:59 00:59:30
