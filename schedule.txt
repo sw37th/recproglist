@@ -12,6 +12,7 @@
 15     zoids                     Mon  19:00
  
 ## Mon
+4      dodesho                   Mon  22:00
 15     lv1mao                    Mon  22:30
 15     masamunekun_r             Mon  23:00
 141    eiyukyoshitsu             Mon  23:30
@@ -25,14 +26,14 @@
 
 ## Tue
 15     meganewowasureta          Tue  23:00
-141    yumemirudanshi            Tue  24:30
+141    yurukyan_2nd              Tue  24:30
 171    okashina                  Tue  24:30
 25     helck                     Tue  25:29
  
 ## Wed
-15     jidouhanbaiki             Wed  22:00
 15     straydogs_5th             Wed  23:00
 15     watashinoshiawasenakekkon Wed  23:30
+211    niehime                   Wed  24:00
 141    helck                     Wed  24:00
 181    undead_girl_murder_farce  Wed  24:00
 15     shiroseijo                Wed  24:30
@@ -42,7 +43,6 @@
 21     undead_girl_murder_farce  Wed  24:55
  
 ## Thu
-15     hatarakumaousama_2nd      Thu  23:30
 211    hatarakumaousama_2nd      Thu  23:30
 22     jujutsu_kaisen_2nd        Thu  23:56
 15     rasubosujoou              Thu  24:00
@@ -60,10 +60,12 @@
 151    meganewowasureta          Fri  23:00
 211    seijamusou                Fri  23:30
 151    sugarapple_2nd            Fri  23:30
+260    toradora                  Fri  23:30 00:31:00
 15     nanatsunomakenga          Fri  24:30
 211    nanatsunomakenga          Fri  24:30
 15     spriggan                  Fri  25:05
 22     kanojo_okarishimasu_3rd   Fri  25:23
+211    spriggan                  Fri  25:30
 22     ainoidenshi               Fri  25:53
 22     dekiruneko                Fri  26:23
 161    ainoidenshi               Fri  26:30
@@ -72,7 +74,6 @@
 20     buratamori                Sat  19:30 00:46:00
 
 ## Sat
-15     level1                    Sat  22:00
 15     liar_liar                 Sat  22:30
 23     bleach_sennen_2nd         Sat  23:00
 141    level1                    Sat  23:00
@@ -81,6 +82,7 @@
 15     ryza                      Sat  24:00
 211    ryza                      Sat  24:00
 20     tiger_and_bunny_2nd       Sat  24:00
+15     ayaka                     Sat  25:00
 211    ayaka                     Sat  25:00
 151    chiisaisenpai             Sat  25:00
 24     chiisaisenpai             Sat  25:30
@@ -88,8 +90,9 @@
 211    tenpuru                   Sat  25:30
 24     jitsuhaore                Sat  26:00
 24     hirogaru_sky_precure      Sun  08:30
-24     geats                     Sun  09:00
+24     gotchard                  Sun  09:00
 24     kinguoojaa                Sun  09:30
+15     dodesho                   Sun  14:30
 22     zon100                    Sun  17:00
 19     aonoorchestra             Sun  17:00
 25     dash                      Sun  18:59 00:59:30
