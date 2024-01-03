@@ -1,98 +1,119 @@
 ## Sun
-15     kuromeido_2nd             Sun  22:00
-15     yohane                    Sun  22:30
-15     eiyukyoshitsu             Sun  23:00
-151    liar_liar                 Sun  23:00
-211    yohane                    Sun  23:30
-15     mushokutensei_2nd         Sun  24:00
-211    mushokutensei_2nd         Sun  24:00
-211    kuromeido_2nd             Sun  24:30
-15     dark_gathering            Sun  25:05
+15     dekobokomajo              Sun  22:00
+15     100kano                   Sun  22:30
+15     zegapain                  Sun  23:00
+171    spyxfamily_3rd            Sun  23:30
+211    mfghost                   Sun  24:00
+211    100kano                   Sun  24:30
+211    overtake                  Sun  25:05
 151    dark_gathering            Sun  25:30
+141    tatenoyushano_3rd         Sun  26:30
 15     zoids                     Mon  19:00
  
 ## Mon
+15     hoshikuzu_telepath        Mon  22:00
 4      dodesho                   Mon  22:00
-15     lv1mao                    Mon  22:30
-15     masamunekun_r             Mon  23:00
-141    eiyukyoshitsu             Mon  23:30
-15     mononogatari_2nd          Mon  24:00
-211    mononogatari_2nd          Mon  24:00
-23     synduality_noir           Mon  24:00
-141    lv1mao                    Mon  24:00
-141    synduality_noir           Mon  24:30
-23     okashina                  Mon  25:30
-23     yumemirudanshi            Mon  26:00
+211    kawagoe_boys_sing         Mon  23:00
+211    millionlive               Mon  23:30
+211    deadmount                 Mon  24:00
+23     shy                       Mon  24:00
+141    hoshikuzu_telepath        Mon  24:00
+15     wataoshi                  Mon  24:30
+211    kamonohashiron            Mon  24:30
+141    shy                       Mon  24:30
+211    toauossan                 Mon  25:00
+23     seikengakuen              Mon  25:30
+15     migitodari                Mon  25:35
+23     b-project_3rd             Mon  26:00
 
 ## Tue
-15     meganewowasureta          Tue  23:00
+15     paradox_live              Tue  23:00
+23     tokyo_revengers_3rd       Tue  24:00
+15     seijonomaryokuha_2nd      Tue  24:30
+211    seijonomaryokuha_2nd      Tue  24:30
 141    yurukyan_2nd              Tue  24:30
-171    okashina                  Tue  24:30
+211    migitodari                Tue  25:00
 25     helck                     Tue  25:29
  
 ## Wed
-15     straydogs_5th             Wed  23:00
-15     watashinoshiawasenakekkon Wed  23:30
-211    niehime                   Wed  24:00
+15     oshiekomu                 Wed  22:00
+15     bullbuster                Wed  23:00
+141    wataoshi                  Wed  23:30
+15     umamusume_3rd             Wed  24:00
+211    umamusume_3rd             Wed  24:00
+23     kizunanoallele_2nd        Wed  24:00
 141    helck                     Wed  24:00
-181    undead_girl_murder_farce  Wed  24:00
-15     shiroseijo                Wed  24:30
-211    shiroseijo                Wed  24:30
-141    jidouhanbaiki             Wed  24:30
-181    masamunekun_r             Wed  24:30
-21     undead_girl_murder_farce  Wed  24:55
+181    kamierabi                 Wed  24:00
+15     16bit                     Wed  24:30
+211    16bit                     Wed  24:30
+181    oshiekomu                 Wed  24:30
+141    naritakute_2nd            Wed  24:30
+21     kamierabi                 Wed  24:55
+141    bullbuster                Wed  25:00
+211    boushoku                  Wed  25:30
  
 ## Thu
-211    hatarakumaousama_2nd      Thu  23:30
+15     mahoutsukainoyome_2nd     Thu  22:00
+15     dr_stone_4th              Thu  22:30
+15     bikkurimen                Thu  23:30
+211    dr_stone_4th              Thu  23:30
 22     jujutsu_kaisen_2nd        Thu  23:56
-15     rasubosujoou              Thu  24:00
-211    rasubosujoou              Thu  24:00
-15     spykyoushitsu_2nd         Thu  24:30
-141    spykyoushitsu_2nd         Thu  24:30
-211    watashinoshiawasenakekkon Thu  24:30
+211    yuzukisanchino            Thu  24:00
+15     ojoutobankenkun           Thu  24:30
+141    millionlive               Thu  24:30
+181    seikengakuen              Thu  24:30
 21     rurounikenshin_reiwa      Thu  24:55
-22     seijamusou                Thu  25:28
+15     rail_romanesque_2nd       Thu  25:00 00:05:00
+15     musumegas                 Thu  25:05
+222    gundam_the_origin         Thu  26:00
  
 ## Fri
-15     hyakushoukizoku           Fri  21:54 00:06:00
-15     sugarapple_2nd            Fri  22:30
-151    hyakushoukizoku           Fri  22:54 00:06:00
-151    meganewowasureta          Fri  23:00
-211    seijamusou                Fri  23:30
-151    sugarapple_2nd            Fri  23:30
+141    frieren                   Fri  22:30
+25     frieren                   Fri  23:00
+15     koryaku_wanted            Fri  23:00
+211    mahoutsukainoyome_2nd     Fri  23:00
+211    under_ninja               Fri  23:30
+151    ojoutobankenkun           Fri  23:30
 260    toradora                  Fri  23:30 00:31:00
-15     nanatsunomakenga          Fri  24:30
-211    nanatsunomakenga          Fri  24:30
-15     spriggan                  Fri  25:05
-22     kanojo_okarishimasu_3rd   Fri  25:23
-211    spriggan                  Fri  25:30
-22     ainoidenshi               Fri  25:53
-22     dekiruneko                Fri  26:23
-161    ainoidenshi               Fri  26:30
-161    dekiruneko                Fri  27:00
+211    hypnosis_mic_2nd          Fri  24:00
+15     goblin_slayer_2nd         Fri  25:05
+22     undead_unluck             Fri  25:23
+211    goblin_slayer_2nd         Fri  25:30
+15     otsukiaisuruhanashi       Fri  25:35
+22     hametsunooukoku           Fri  25:53
+22     kanojomokanojo_2nd        Fri  26:23
+161    hametsunooukoku           Fri  26:30
+211    otsukiaisuruhanashi       Fri  27:00
+161    kanojomokanojo_2nd        Fri  27:00
 23     the_fishing               Sat  17:30
+25     miguminodaigo             Sat  17:30
+19     kibounochikara            Sat  18:25
 20     buratamori                Sat  19:30 00:46:00
 
 ## Sat
-15     liar_liar                 Sat  22:30
-23     bleach_sennen_2nd         Sat  23:00
-141    level1                    Sat  23:00
-15     horimiya_2nd              Sat  23:30
-211    horimiya_2nd              Sat  23:30
-15     ryza                      Sat  24:00
-211    ryza                      Sat  24:00
-20     tiger_and_bunny_2nd       Sat  24:00
-15     ayaka                     Sat  25:00
-211    ayaka                     Sat  25:00
-151    chiisaisenpai             Sat  25:00
-24     chiisaisenpai             Sat  25:30
-15     tenpuru                   Sat  25:30
-211    tenpuru                   Sat  25:30
-24     jitsuhaore                Sat  26:00
+15     saihate_paladin_2nd       Sat  22:00
+15     hikikomari                Sat  22:30
+141    musumegas                 Sat  22:30
+23     spyxfamily_3rd            Sat  23:00
+141    hikikomari                Sat  23:00
+211    dotennen                  Sat  23:30
+15     kikanshano                Sat  24:00
+20     chikyugaishonenshojo      Sat  24:00 00:32:00
+20     ochibisan                 Sat  24:38 00:06:00
+141    kusuriyanohitorigoto      Sat  24:00
+211    kanetsushiro              Sat  24:30
+141    saihate_paladin_2nd       Sat  24:30
+25     kusuriyanohitorigoto      Sat  24:55
+15     tearmoon                  Sat  25:00
+211    tearmoon                  Sat  25:00
+211    ragna_crimson             Sat  25:30
+24     ameiroprotocol            Sat  25:30
+24     potion                    Sat  26:00
 24     hirogaru_sky_precure      Sun  08:30
 24     gotchard                  Sun  09:00
 24     kinguoojaa                Sun  09:30
+23     millionlive               Sun  10:00
 15     dodesho                   Sun  14:30
-22     zon100                    Sun  17:00
-19     aonoorchestra             Sun  17:00
+22     shangri_la_frontier       Sun  17:00
+19     dog_signal                Sun  17:00
 25     dash                      Sun  18:59 00:59:30
