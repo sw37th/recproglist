@@ -1,8 +1,8 @@
 ## Sun
 151    nazebokuno                Sun  23:00
-15     shikanokonokonokokoshitantan Sun 23:30
 141    shikanokonokonokokoshitantan Sun 23:30
 22     kinnikuman                Sun  23:30
+151    hyakushoukizoku           Sun  23:30
 23     nanarehananare            Sun  23:45
 211    hazurewaku                Sun  24:00
 15     vtubernandaga             Sun  24:30
@@ -39,7 +39,7 @@
 141    roshiago                  Wed  24:30
 171    grendizer_u               Wed  24:30
 15     warikirenai               Wed  25:00
-211    kimitobokunosaigono_2nd   Wed  25:30
+#211    kimitobokunosaigono_2nd   Wed  25:30
 16     oshinoko_2nd              Wed  25:30
  
 ## Thu
@@ -80,7 +80,6 @@
 15     nigewaka                  Sat  23:30
 211    nigewaka                  Sat  23:30
 20     karasuwaarujiwoerabanai   Sat  23:45
-15     atri                      Sat  24:00
 211    atri                      Sat  24:00
 141    the_fable                 Sat  24:00
 15     makein                    Sat  24:30
@@ -91,7 +90,7 @@
 211    yaserarenai               Sat  25:30 00:15:00
 24     shoushimin                Sat  25:30
 24     wonderful_precure         Sun  08:30
-24     gotchard                  Sun  09:00
+24     gavv                      Sun  09:00
 24     bunbunjaa                 Sun  09:30
 25     dash                      Sun  18:59 00:59:30
 20     hikarukimihe              Sun  20:00 00:46:00
