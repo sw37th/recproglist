@@ -1,18 +1,18 @@
 ## Sun
 211    kaguyasama_selection      Sun  22:30
-15     wataru2                   Sun  23:00
+#16     wataru2                   Sun  23:00
 151    iyashinai                 Sun  23:00
 151    katainaka                 Sun  23:30
 211    makein                    Sun  23:30
 23     lazarus                   Sun  23:45
 211    umamusume_cinderella_grey Sun  24:00
 211    maebashi_witches          Sun  24:30
-15     yatara_chotto_kakushite   Sun  25:00  00:36:00
+#16     yatara_chotto_kakushite   Sun  25:00  00:36:00
 151    goriraanokami             Sun  25:30
-15     gagmangabiyori_go         Mon  21:54  00:06:00
+#16     gagmangabiyori_go         Mon  21:54  00:06:00
  
 ## Mon
-15     zatsutabi                 Mon  22:30
+#16     zatsutabi                 Mon  22:30
 141    vigilante                 Mon  23:00
 211    zatsutabi                 Mon  23:00
 211    summer_pockets            Mon  23:30
@@ -23,7 +23,7 @@
 211    gagmangabiyori_go         Tue  21:54  00:06:00
 
 ## Tue
-15     imas_millionlive          Tue  23:00
+#16     imas_millionlive          Tue  23:00
 141    ballpark                  Tue  23:30
 141    koubounushi               Tue  24:00
 25     gquuuuuux                 Tue  24:28  00:33:00
@@ -44,7 +44,7 @@
 211    haitekudasai              Wed  25:00
  
 ## Thu
-15     ninkoro                   Thu  22:30
+#16     ninkoro                   Thu  22:30
 211    yamihiiraa                Thu  23:30
 22     shukujonotashinami        Thu  23:56
 211    maidragon                 Thu  24:00
@@ -63,23 +63,23 @@
 161    enen_3rd                  Fri  26:30
 23     the_fishing               Sat  17:30
 25     yaiba                     Sat  17:30
-19     anne_shirley              Sat  18:25
+26     anne_shirley              Sat  18:25
 211    gquuuuuux                 Sat  19:00  00:31:00
-20     buratamori                Sat  19:30  00:31:00
+27     buratamori                Sat  19:30  00:31:00
 
 ## Sat
 211    slime300_2nd              Sat  22:00
-15     guilty_gear               Sat  22:30
+#16     guilty_gear               Sat  22:30
 141    kusuriyanohitorigoto_2nd  Sat  22:30
 23     generic_romance           Sat  23:00
 141    wind_breaker_2nd          Sat  23:00
 24     katainaka                 Sat  23:30
 211    kuroshitsuji_5th          Sat  23:30
-20     gamera_rebirth            Sat  23:45
-15     mono                      Sat  24:00
+27     gamera_rebirth            Sat  23:45
+#16     mono                      Sat  24:00
 211    mono                      Sat  24:00
 141    motooshiegotachito        Sat  24:00
-15     hibihasugiredomeshiumashi Sat  24:30
+#16     hibihasugiredomeshiumashi Sat  24:30
 211    hibihasugiredomeshiumashi Sat  24:30
 141    byebye_earth_2nd          Sat  24:30
 211    classicstars              Sat  25:00
@@ -93,4 +93,4 @@
 22     umamusume_cinderella_grey Sun  16:30
 22     witchwatch                Sun  17:00
 25     dash                      Sun  18:59 00:59:30
-20     berabou                   Sun  20:00 00:46:00
+27     berabou                   Sun  20:00 00:46:00
