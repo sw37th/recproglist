@@ -2,11 +2,11 @@
 211    rurinohouseki             Sun  22:30
 141    gachiakuta                Sun  23:00
 151    ametokimito               Sun  23:00
-211    arknights_3rd             Sun  23:30
+#211    arknights_3rd             Sun  23:30
 151    fermat                    Sun  23:30
 211    kizetsuyuusha             Sun  24:00
 171    hotel_in_humans           Sun  24:30
-211    dekichaumade_kanchuhai    Sun  25:00  00:16:00
+#211    dekichaumade_kanchuhai    Sun  25:00  00:16:00
 151    geesenshoujo              Sun  25:30
  
 ## Mon
@@ -14,7 +14,6 @@
 141    foodcourt                 Mon  23:00
 211    summer_pockets            Mon  23:30
 141    binannkoukou_haikara      Mon  23:30
-23     sakamoto_days_2nd         Mon  24:00
 211    dekinnomogura             Mon  24:00
 141    mynoghra                  Mon  24:00
 211    guranburu_2nd             Mon  24:30
@@ -32,9 +31,9 @@
 171    livingcat                 Tue  24:30
 181    kijingentoushou           Tue  24:30
 141    witchwatch                Tue  25:00
+211    nukitashi                 Tue  26:00
  
 ## Wed
-24     nuubee_reiwa              Wed  23:45
 23     dainanaoujidattanode_2nd  Wed  24:00
 141    nekuronomiko              Wed  24:00
 181    tenseisoush               Wed  24:00
@@ -48,23 +47,23 @@
 ## Thu
 141    turkey                    Thu  22:30
 141    jidouhanbaiki_2nd         Thu  23:00
+211    muchuusakimini            Thu  23:30
 22     kamitsubakishi            Thu  23:56
 211    dr_stone_6th              Thu  24:00
 22     dandadan_2nd              Thu  24:26
 211    tsuihoushashokudou        Thu  24:30
 181    shiromadoushi_hirowareru  Thu  24:30
+171    sakamoto_days_2nd         Thu  24:30
 141    tatenoyushano_4th         Thu  25:00
 
 ## Fri
-25     tougenanki                Fri  23:00
 151    haigakura                 Fri  23:00
 211    mizuzokusei               Fri  23:00
-21     yohusashinouta_2nd        Fri  23:30
+21     yohukashinouta_2nd        Fri  23:30
 151    hutarisolocamp            Fri  23:30
 211    silentwitch               Fri  24:00
-22     zutaboro                  Fri  25:53
+181    utagoeha                  Fri  24:30
 222    tsuyokute                 Fri  26:00
-22     kanokari_4th              Fri  26:23
 161    zutaboro                  Fri  26:30
 161    kanokari_4th              Fri  27:00
 23     the_fishing               Sat  17:30
@@ -78,7 +77,6 @@
 23     kaiju8go_2nd              Sat  23:00
 141    watarukunnoxx             Sat  23:00
 211    aobuta_santa              Sat  23:30
-24     fermat                    Sat  23:30
 27     sandland                  Sat  23:45
 211    kisekoi_2nd               Sat  24:00
 141    nine                      Sat  24:00
@@ -87,11 +85,10 @@
 25     hikarugashindanatsu       Sat  24:55
 211    badgirl                   Sat  25:00
 151    nuubee_reiwa              Sat  25:00
-24     ametokimito               Sat  25:30
 211    koujodenkanokateikyoushi  Sat  25:30
 24     ranobeanime               Sat  26:00
 24     idle_precure              Sun  08:30
-24     gavv                      Sun  09:00
+24     zeztz                     Sun  09:00
 24     gojuujaa                  Sun  09:30
 22     hanakokun_2nd             Sun  16:30
 22     witchwatch                Sun  17:00
