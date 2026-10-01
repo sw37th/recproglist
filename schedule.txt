@@ -1,96 +1,116 @@
 ## Sun
-141    nokaben                   Sun  23:00
-151    taberudake                Sun  23:00
-151    otakuniyasashii           Sun  23:30
-151    akanebanashi              Sun  25:00
-211    matsurika_ookii_ingoku    Sun  25:00
-151    ghostconcert              Sun  25:30
-151    kusunokitei               Sun  26:00
-15     milky_subway              Mon  21:54 00:07:00
+15     100kano_3rd               Sun  22:30
+15     denkimokuroku             Sun  23:00
+211    100kano_3rd               Sun  23:00
+151    ryouminzeronin            Sun  23:00
+211    denkimokuroku             Sun  23:30
+141    bakido                    Sun  23:30
+151    katainaka_2nd             Sun  23:30
+23     futsutsukanaakujodeha     Sun  23:45
+15     mushokutensei_3rd         Sun  24:00
+211    mushokutensei_3rd         Sun  24:00
+15     sayonararara              Sun  24:30
+151    ibittekonai               Sun  25:00
+151    sayonararara              Sun  25:30
+181    thunder3                  Sun  25:30
+23     saijonoosewa              Sun  25:50
+15     hokutonoken_zako_2nd      Mon  21:54 00:07:00
  
 ## Mon
-211    tongariboushi             Mon  23:00
-141    mankitsugurashi           Mon  23:00
-151    ponkotsufuukiiin          Mon  23:24
-211    suzumiyaharuhi            Mon  23:30
-141    niwatorifighter           Mon  23:30
-141    nihonsangoku              Mon  24:00
-211    jishouakuyakureijou       Mon  24:00
-141    luluttolilly              Mon  24:30
+211    danko                     Mon  23:00
+141    hanaorisan                Mon  23:00
+151    jikikoushakusama          Mon  23:24
+141    nekotoryuu                Mon  23:30
+211    guranburu_3rd             Mon  24:00
+141    suterareseijo             Mon  24:00
+181    degarashiouji             Mon  24:00
+211    nokouei                   Mon  25:00
+211    kokohaorenimakasete       Mon  25:30
 
 ## Tue
-21     marriagetoxin             Tue  23:00
-161    kujima                    Tue  23:30
-141    wistoria_2nd              Tue  23:30
-23     hidarikikino              Tue  24:00
-211    rasubosujohou_2nd         Tue  24:00
-211    replicadatte              Tue  24:30
-141    yozakurasanchino_2nd      Tue  24:30
-171    isekainonbirinouka_2nd    Tue  24:30
-211    komekamigirls             Tue  25:00
+15     taiarideshita             Tue  22:00
+21     koukakukidoutai_reiwa     Tue  23:00
+141    taiarideshita             Tue  23:30
+23     tehudagaoomeno            Tue  24:00
+211    toumeinayoruni            Tue  24:00
+15     kimigashinumadekoiwoshitai Tue  24:30
+211    kimigashinumadekoiwoshitai Tue  24:30
+181    iwamotosenpai             Tue  24:30
+211    buchigirereijou           Tue  25:30
  
 ## Wed
+15     clevatess_2nd             Wed  22:30
 15     rezero_5th                Wed  23:00 00:31:00
-141    rokkotsude                Wed  23:30
-211    nigashitasakanaha         Wed  24:00
-141    tadaimaojamasaremasu      Wed  24:00
-181    awashimahyakkei           Wed  24:00
-141    jitsuryokushijoushugi_4th Wed  24:30
-211    nakamurakun               Wed  24:30
-21     saikyounoousama_2nd       Wed  24:45
+15     youjosenki_2nd            Wed  23:30
+24     katainaka_2nd             Wed  23:45
+211    samuraitrooper_reiwa_2nd  Wed  24:00
+181    kakko_hokori              Wed  24:00
+141    tenhaakaikawanohotori     Wed  24:00
+141    clevatess_2nd             Wed  24:30
+211    hanazakarino_2nd          Wed  24:30
+181    tenkousakinoseisokarenna  Wed  24:30
+21     thunder3                  Wed  24:45
 211    rezero_5th                Wed  25:00 00:31:00
+141    magilumiere_2nd           Wed  25:00
+21     toukutsuou                Wed  25:15
+211    youjosenki_2nd            Wed  25:30
  
 ## Thu
-15     dr_stone_7th              Thu  22:00
-141    jidouhanbaiki_3rd         Thu  23:00
-22     koorinojouheki            Thu  23:56
-211    dr_stone_7th              Thu  24:00
-22     kirio                     Thu  24:26
-141    himekishihabanzokunohyome Thu  25:00
-15     mamonogurai               Thu  25:00 00:15:00
-21     awashimahyakkei           Thu  25:45
+15     world_is_dancing          Thu  22:00
+15     darasan                   Thu  22:30
+141    darasan                   Thu  23:00
+22     yanisuuhutari             Thu  23:56
+211    gaikotsukishisama_2nd     Thu  24:00
+141    bandori_yumemita          Thu  24:00
+181    mebiusdust                Thu  24:00
+15     yanineko                  Thu  24:30
+211    yanineko                  Thu  24:30
+181    lv999nomurabito           Thu  24:30
+211    mujikakuseijo             Thu  25:00
+141    mobunikibishii_2nd        Thu  25:00
+22     caramelise                Thu  25:28
 222    kuronekotomajono          Thu  26:00
 
 ## Fri
 25     tensura_5th               Fri  23:00
-151    nibanmenikawaii           Fri  23:00
-211    haibarakun                Fri  23:00
-25     snowballearth             Fri  23:30
-211    matakorosarete            Fri  23:30
-151    aishiterugeemu            Fri  23:30
-15     kamiiinabotan             Fri  24:00
-211    kamiiinabotan             Fri  24:00
-23     kodoku_11th               Fri  24:12 00:40:00
-211    shumatsu_valkyrie_3rd     Fri  24:30
-211    hokutonoken_reiwa         Fri  25:00
-161    kanokari_5th              Fri  26:30
+151    world_is_dancing          Fri  23:00
+211    straydogs_one_2nd         Fri  23:15 00:15:00
+25     korekaiteshine            Fri  23:30
+21     nigewaka_2nd              Fri  23:30
+211    kaikigumi                 Fri  23:30
+151    saijonoosewa              Fri  23:30
+211    uchinootoutodomoga        Fri  24:00
+211    caramelise                Fri  25:00
+15     kamuisan                  Fri  25:30 00:15:00
+141    tenseijuukishi            Fri  26:00
+161    codegeass_roze            Fri  26:30
 23     the_fishing               Sat  17:30
 25     honzukinogekokujou_4th    Sat  17:30
 19     mairimashitairumakun_4th  Sat  18:25
-211    gundam_gquuuuuux          Sat  19:00
-20     buratamori                Sat  19:30  00:40:00
+#211    gundam_gquuuuuux          Sat  19:00
+20     buratamori                Sat  19:30 00:40:00
 
 ## Sat
 211    tensura_5th               Sat  22:00
-211    yowayowasensei            Sat  22:30
-23     kiruao                    Sat  23:00
+211    blacktorch                Sat  22:30
 141    kaminoshizuku             Sat  23:00
 15     yominotsugai              Sat  23:30
 211    yominotsugai              Sat  23:30
-24     akanebanashi              Sat  23:30
+24     jadugaru                  Sat  23:30
 20     mao                       Sat  23:45
-15     shunkashuutoudaikousha    Sat  24:00
-211    shunkashuutoudaikousha    Sat  24:00
-141    dameningen_2nd            Sat  24:00
+15     growupshow                Sat  24:00
+211    growupshow                Sat  24:00
+141    hellmode_2nd              Sat  24:00
 171    liargame                  Sat  24:00
-211    needygirloverdose         Sat  24:30
+211    oninohanayome             Sat  24:30
 141    minkymomo                 Sat  24:30
-25     yushanokuzu               Sat  24:55 00:30:00
-211    akumadechoroi             Sat  25:00
-151    kanteishikakkokari        Sat  25:00
+25     magilumiere_2nd           Sat  24:55
+211    nanoha_exgv               Sat  25:00
+151    jadugaru                  Sat  25:00
 24     meitantei_precure         Sun  08:30
-24     zeztz                     Sun  09:00
+24     myth                      Sun  09:00
 21     digimon_beatbreak         Sun  09:00
-24     gavan_infinity            Sun  09:30
-22     daiyanoa_2nd              Sun  17:30
+24     omegahorn                 Sun  09:30
+22     seihantainakimitoboku_2nd Sun  17:00
+23     tetsunabenojan            Sun  17:30
 25     dash                      Sun  18:59 00:59:30
